@@ -35,12 +35,12 @@ This project lays the foundation for further enhancements. Some potential areas 
 - Web-based Dashboard or Visualization: Develop a web-based dashboard or visualization tool to present the analysis results in an interactive and user-friendly manner. This can include visualizations of sentiment trends, network graphs, topic clusters, and other relevant visual representations of the data.
 - Expanded Dataset: Expand the dataset to include more politicians and gather tweets over an extended period to capture temporal patterns and trends. This can enhance the comprehensiveness and diversity of the analysis, providing a broader understanding of politicians' sentiments and behaviors.
 
-### Contributions
+## Contributions
 Contributions to this project are welcome. If you have any suggestions, improvements, or new features, feel free to open an issue or submit a pull request.
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Acknowledgments
+## Acknowledgments
 - This project utilizes the NLTK and SpaCy libraries for natural language processing tasks.
 - Thanks to the Twitter API for providing access to tweet data.
