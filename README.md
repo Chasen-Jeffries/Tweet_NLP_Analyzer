@@ -26,19 +26,13 @@ To use this project, follow these steps:
 ## Future Enhancements
 This project lays the foundation for further enhancements. Some potential areas of improvement and expansion include:
 
-- Fine-tuning Sentiment Analysis Models: Fine-tune sentiment analysis models to better capture nuanced sentiments and improve accuracy. 
- -  This could involve training models on domain-specific data related to politics and politicians' tweets.
-- Topic Modeling: Incorporate topic modeling techniques to identify the most prevalent topics in politicians' tweets.
- -  This could provide insights into the key issues and discussions surrounding political figures.
-- Network Analysis: Implement network analysis to explore relationships and interactions between politicians based on their mentions and retweets. 
- -  Analyzing the network structure could reveal influential figures, alliances, and patterns of information flow.
-- Consistency Scores: Develop consistency scores to measure how consistently positive or negative politicians' sentiments are towards specific entities. 
- -  This analysis can provide insights into their ideological alignment and consistency in expressing sentiments.
+- Fine-tuning Sentiment Analysis Models: Fine-tune sentiment analysis models to better capture nuanced sentiments and improve accuracy. This could involve training models on domain-specific data related to politics and politicians' tweets.
+- Topic Modeling: Incorporate topic modeling techniques to identify the most prevalent topics in politicians' tweets.This could provide insights into the key issues and discussions surrounding political figures.
+- Network Analysis: Implement network analysis to explore relationships and interactions between politicians based on their mentions and retweets. Analyzing the network structure could reveal influential figures, alliances, and patterns of information flow.
+- Consistency Scores: Develop consistency scores to measure how consistently positive or negative politicians' sentiments are towards specific entities. This analysis can provide insights into their ideological alignment and consistency in expressing sentiments.
 - Accountability Score: Introduce an accountability score to evaluate how closely politicians' tweets align with their campaign promises. A gold standard list of campaign promises, based on their official campaign websites or public statements, can be used as a reference for comparison.
-- Gold Standard for NER: Create a curated list of entities specifically tailored for politicians and their tweets. 
- -  This gold standard list can enhance the accuracy and relevance of the named entity recognition (NER) process, providing more meaningful insights into the entities mentioned by politicians.
-- Web-based Dashboard or Visualization: Develop a web-based dashboard or visualization tool to present the analysis results in an interactive and user-friendly manner. 
- -  This can include visualizations of sentiment trends, network graphs, topic clusters, and other relevant visual representations of the data.
+- Gold Standard for NER: Create a curated list of entities specifically tailored for politicians and their tweets. This gold standard list can enhance the accuracy and relevance of the named entity recognition (NER) process, providing more meaningful insights into the entities mentioned by politicians.
+- Web-based Dashboard or Visualization: Develop a web-based dashboard or visualization tool to present the analysis results in an interactive and user-friendly manner. This can include visualizations of sentiment trends, network graphs, topic clusters, and other relevant visual representations of the data.
 - Expanded Dataset: Expand the dataset to include more politicians and gather tweets over an extended period to capture temporal patterns and trends. This can enhance the comprehensiveness and diversity of the analysis, providing a broader understanding of politicians' sentiments and behaviors.
 
 ### Contributions
