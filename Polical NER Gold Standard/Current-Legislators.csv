@@ -1,0 +1,542 @@
+last_name,first_name,middle_name,suffix,nickname,full_name,type,state,district,party,twitter,twitter_id,facebook,youtube,mastodon,ballotpedia_id,washington_post_id,wikipedia_id
+Brown,Sherrod,,,,Sherrod Brown,sen,OH,,Democrat,SenSherrodBrown,43910797,SenatorSherrodBrown,SherrodBrownOhio,,Sherrod Brown,,Sherrod Brown
+Cantwell,Maria,,,,Maria Cantwell,sen,WA,,Democrat,SenatorCantwell,117501995,senatorcantwell,SenatorCantwell,,Maria Cantwell,,Maria Cantwell
+Cardin,Benjamin,L.,,,Benjamin L. Cardin,sen,MD,,Democrat,SenatorCardin,109071031,senatorbencardin,senatorcardin,,Ben Cardin,,Ben Cardin
+Carper,Thomas,Richard,,,Thomas R. Carper,sen,DE,,Democrat,SenatorCarper,249787913,tomcarper,senatorcarper,,Tom Carper,,Tom Carper
+Casey,Robert,P.,Jr.,Bob,"Robert P. Casey, Jr.",sen,PA,,Democrat,SenBobCasey,171598736,SenatorBobCasey,SenatorBobCasey,,"Bob Casey, Jr.",,Bob Casey Jr.
+Feinstein,Dianne,,,,Dianne Feinstein,sen,CA,,Democrat,SenFeinstein,476256944,senatorfeinstein,SenatorFeinstein,,Dianne Feinstein,,Dianne Feinstein
+Klobuchar,Amy,Jean,,,Amy Klobuchar,sen,MN,,Democrat,SenAmyKlobuchar,22044727,,senatorklobuchar,,Amy Klobuchar,,Amy Klobuchar
+Menendez,Robert,,,Bob,Robert Menendez,sen,NJ,,Democrat,SenatorMenendez,18695134,senatormenendez,SenatorMenendezNJ,,Bob Menendez,,Bob Menendez
+Sanders,Bernard,,,Bernie,Bernard Sanders,sen,VT,,Independent,SenSanders,29442313,senatorsanders,senatorsanders,,Bernie Sanders,,Bernie Sanders
+Stabenow,Debbie,Ann,,,Debbie Stabenow,sen,MI,,Democrat,SenStabenow,76456274,SenatorStabenow,senatorstabenow,,Debbie Stabenow,,Debbie Stabenow
+Tester,Jon,,,,Jon Tester,sen,MT,,Democrat,SenatorTester,515822213,senatortester,senatorjontester,,Jon Tester,,Jon Tester
+Whitehouse,Sheldon,,,,Sheldon Whitehouse,sen,RI,,Democrat,SenWhitehouse,242555999,SenatorWhitehouse,SenatorWhitehouse,,Sheldon Whitehouse,,Sheldon Whitehouse
+Barrasso,John,A.,,,John Barrasso,sen,WY,,Republican,SenJohnBarrasso,202206694,johnbarrasso,barrassowyo,,John Barrasso,,John Barrasso
+Wicker,Roger,F.,,,Roger F. Wicker,sen,MS,,Republican,SenatorWicker,264219447,SenatorWicker,SenatorWicker,,Roger Wicker,,Roger Wicker
+Collins,Susan,M.,,,Susan M. Collins,sen,ME,,Republican,SenatorCollins,19726613,susancollins,SenatorSusanCollins,,Susan Collins,,Susan Collins
+Cornyn,John,,,,John Cornyn,sen,TX,,Republican,JohnCornyn,13218102,sen.johncornyn,senjohncornyn,,John Cornyn,,John Cornyn
+Durbin,Richard,J.,,,Richard J. Durbin,sen,IL,,Democrat,SenatorDurbin,247334603,SenatorDurbin,SenatorDurbin,,Dick Durbin,,Dick Durbin
+Graham,Lindsey,O.,,,Lindsey Graham,sen,SC,,Republican,GrahamBlog,14845376,USSenatorLindseyGraham,USSenLindseyGraham,,Lindsey Graham,,Lindsey Graham
+McConnell,Mitch,,,,Mitch McConnell,sen,KY,,Republican,McConnellPress,339822881,mitchmcconnell,,,Mitch McConnell,,Mitch McConnell
+Merkley,Jeff,,,,Jeff Merkley,sen,OR,,Democrat,SenJeffMerkley,29201047,jeffmerkley,SenatorJeffMerkley,,Jeff Merkley,,Jeff Merkley
+Reed,John,F.,,Jack,Jack Reed,sen,RI,,Democrat,SenJackReed,486694111,SenJackReed,SenatorReed,,Jack Reed,,Jack Reed (Rhode Island politician)
+Risch,James,E.,,,James E. Risch,sen,ID,,Republican,SenatorRisch,1096059529,senatorjimrisch,SenatorJamesRisch,,Jim Risch,,Jim Risch
+Shaheen,Jeanne,,,,Jeanne Shaheen,sen,NH,,Democrat,SenatorShaheen,109287731,SenatorShaheen,senatorshaheen,,Jeanne Shaheen,,Jeanne Shaheen
+Warner,Mark,R.,,,Mark R. Warner,sen,VA,,Democrat,MarkWarner,7429102,MarkRWarner,SenatorMarkWarner,,Mark Warner,,Mark Warner
+Gillibrand,Kirsten,E.,,,Kirsten E. Gillibrand,sen,NY,,Democrat,GillibrandNY,8.99979E+17,SenKirstenGillibrand,KirstenEGillibrand,,Kirsten Gillibrand,,Kirsten Gillibrand
+Coons,Christopher,Andrew,,,Christopher A. Coons,sen,DE,,Democrat,ChrisCoons,15324851,senatorchriscoons,senatorchriscoons,,Chris Coons,,Chris Coons
+Manchin,Joe,,III,,"Joe Manchin, III",sen,WV,,Democrat,Sen_JoeManchin,234374703,JoeManchinIII,SenatorJoeManchin,,Joe Manchin III,,Joe Manchin
+Aderholt,Robert,B.,,,Robert B. Aderholt,rep,AL,4,Republican,Robert_Aderholt,76452765,RobertAderholt,RobertAderholt,,Robert B. Aderholt,,Robert Aderholt
+Baldwin,Tammy,,,,Tammy Baldwin,sen,WI,,Democrat,SenatorBaldwin,1074518754,senatortammybaldwin,witammybaldwin,,Tammy Baldwin,,Tammy Baldwin
+Bennet,Michael,F.,,,Michael F. Bennet,sen,CO,,Democrat,SenatorBennet,224285242,senbennetco,SenatorBennet,,Michael Bennet,,Michael Bennet
+Bilirakis,Gus,M.,,,Gus M. Bilirakis,rep,FL,12,Republican,RepGusBilirakis,26051676,GusBilirakis,RepGusBilirakis,,Gus M. Bilirakis,,Gus Bilirakis
+Bishop,Sanford,D.,Jr.,,"Sanford D. Bishop, Jr.",rep,GA,2,Democrat,SanfordBishop,249410485,sanfordbishop,RepSanfordBishop,,Sanford Bishop Jr.,,Sanford Bishop
+Blackburn,Marsha,W.,,,Marsha Blackburn,sen,TN,,Republican,MarshaBlackburn,278145569,marshablackburn,RepMarshaBlackburn,,Marsha Blackburn,,Marsha Blackburn
+Blumenauer,Earl,,,,Earl Blumenauer,rep,OR,3,Democrat,BlumenauerMedia,137823987,,RepBlumenauer,,Earl Blumenauer,,Earl Blumenauer
+Blumenthal,Richard,,,,Richard Blumenthal,sen,CT,,Democrat,SenBlumenthal,278124059,SenBlumenthal,SenatorBlumenthal,,Richard Blumenthal,,Richard Blumenthal
+Boozman,John,,,,John Boozman,sen,AR,,Republican,JohnBoozman,5558312,JohnBoozman,BoozmanPressOffice,,John Boozman,,John Boozman
+Buchanan,Vern,,,,Vern Buchanan,rep,FL,16,Republican,VernBuchanan,20467163,CongressmanBuchanan,vernbuchanan,,Vern Buchanan,,Vern Buchanan
+Bucshon,Larry,,,,Larry Bucshon,rep,IN,8,Republican,RepLarryBucshon,234812598,RepLarryBucshon,RepLarryBucshon,,Larry Bucshon,,Larry Bucshon
+Burgess,Michael,C.,,,Michael C. Burgess,rep,TX,26,Republican,MichaelCBurgess,15751083,michaelcburgess,michaelcburgessmd,,,,Michael C. Burgess
+Calvert,Ken,S.,,,Ken Calvert,rep,CA,41,Republican,KenCalvert,22545491,70063393423,RepKenCalvert,,Ken Calvert,,Ken Calvert
+Capito,Shelley,Moore,,,Shelley Moore Capito,sen,WV,,Republican,SenCapito,193794406,senshelley,,,Shelley Moore Capito,,Shelley Moore Capito
+Carson,André,,,,André Carson,rep,IN,7,Democrat,RepAndreCarson,199325935,CongressmanAndreCarson,repandrecarson,,Andre Carson,,André Carson
+Carter,John,R.,,,John R. Carter,rep,TX,31,Republican,JudgeCarter,18030431,judgecarter,repjohncarter,,John Carter,,John Carter (Texas politician)
+Cassidy,Bill,,,,Bill Cassidy,sen,LA,,Republican,SenBillCassidy,1.0175E+18,,SenatorBillCassidy,,Bill Cassidy,,Bill Cassidy
+Castor,Kathy,,,,Kathy Castor,rep,FL,14,Democrat,USRepKCastor,1880674038,USRepKathyCastor,RepKathyCastor,,Kathy Castor,,Kathy Castor
+Chu,Judy,M.,,,Judy Chu,rep,CA,28,Democrat,RepJudyChu,193732179,RepJudyChu,RepJudyChu,,Judy Chu,,Judy Chu
+Cicilline,David,N.,,,David N. Cicilline,rep,RI,1,Democrat,RepCicilline,462143773,CongressmanDavidCicilline,RepDavidCicilline,,David N. Cicilline,,David Cicilline
+Clarke,Yvette,D.,,,Yvette D. Clarke,rep,NY,9,Democrat,RepYvetteClarke,240812994,repyvettedclarke,repyvetteclarke,,Yvette D. Clarke,,Yvette Clarke
+Cleaver,Emanuel,,II,,Emanuel Cleaver,rep,MO,5,Democrat,RepCleaver,163570705,emanuelcleaverii,repcleaver,,Emanuel Cleaver,,Emanuel Cleaver
+Clyburn,James,E.,,Jim,James E. Clyburn,rep,SC,6,Democrat,RepJamesClyburn,188019606,jameseclyburn,repjamesclyburn,,James E. Clyburn,,Jim Clyburn
+Cohen,Steve,,,,Steve Cohen,rep,TN,9,Democrat,RepCohen,162069635,CongressmanSteveCohen,repcohen,,Steve Cohen,,Steve Cohen (politician)
+Cole,Tom,,,,Tom Cole,rep,OK,4,Republican,TomColeOK04,23124635,TomColeOK04,reptomcole,,Tom Cole,,Tom Cole
+Connolly,Gerald,E.,,,Gerald E. Connolly,rep,VA,11,Democrat,GerryConnolly,78445977,CongressmanGerryConnolly,repconnolly,,Gerald Connolly,,Gerry Connolly
+Costa,Jim,,,,Jim Costa,rep,CA,21,Democrat,RepJimCosta,245451804,RepJimCosta,RepJimCostaCA20,,Jim Costa,,Jim Costa
+Courtney,Joe,,,,Joe Courtney,rep,CT,2,Democrat,RepJoeCourtney,85396297,joecourtney,repcourtney,,Joe Courtney,,Joe Courtney (politician)
+Crapo,Michael,D.,,Mike,Mike Crapo,sen,ID,,Republican,MikeCrapo,600463589,mikecrapo,senatorcrapo,,Mike Crapo,,Mike Crapo
+Crawford,Eric,A.,,Rick,"Eric A. ""Rick"" Crawford",rep,AR,1,Republican,RepRickCrawford,233693291,RepRickCrawford,RepRickCrawford,,Rick Crawford,,Rick Crawford (politician)
+Cuellar,Henry,,,,Henry Cuellar,rep,TX,28,Democrat,RepCuellar,210926192,1.52569E+11,henrycuellar,,Henry Cuellar,,Henry Cuellar
+Davis,Danny,K.,,,Danny K. Davis,rep,IL,7,Democrat,RepDannyDavis,789244177,CongressmanDKDavis,dannykdavis07,,Danny K. Davis,,Danny Davis (Illinois politician)
+DeGette,Diana,L.,,,Diana DeGette,rep,CO,1,Democrat,RepDianaDeGette,28599820,DianaDeGette,RepDianaDeGette,,Diana DeGette,,Diana DeGette
+DeLauro,Rosa,L.,,,Rosa L. DeLauro,rep,CT,3,Democrat,RosaDeLauro,140519774,CongresswomanRosaDeLauro,rosadelauro,,Rosa DeLauro,,Rosa DeLauro
+DesJarlais,Scott,,,,Scott DesJarlais,rep,TN,4,Republican,DesJarlaisTN04,235312723,ScottDesJarlaisTN04,ScottDesJarlaisTN04,,Scott DesJarlais,,Scott DesJarlais
+Diaz-Balart,Mario,,,,Mario Diaz-Balart,rep,FL,26,Republican,MarioDB,37094727,mdiazbalart,MarioDiazBalart,,Mario Diaz-Balart,,Mario Díaz-Balart
+Doggett,Lloyd,A.,,,Lloyd Doggett,rep,TX,37,Democrat,RepLloydDoggett,153944899,lloyddoggett,doggett,,Lloyd Doggett,,Lloyd Doggett
+Duncan,Jeff,,,,Jeff Duncan,rep,SC,3,Republican,RepJeffDuncan,240393970,RepJeffDuncan,congjeffduncan,,Jeff Duncan,,Jeff Duncan (politician)
+Eshoo,Anna,G.,,,Anna G. Eshoo,rep,CA,16,Democrat,RepAnnaEshoo,249348006,RepAnnaEshoo,RepAnnaEshoo,,Anna Eshoo,,Anna Eshoo
+Fleischmann,Charles,J.,,Chuck,"Charles J. ""Chuck"" Fleischmann",rep,TN,3,Republican,RepChuck,235190657,repchuck,repchuck,,Charles Fleischmann,,Chuck Fleischmann
+Foxx,Virginia,,,,Virginia Foxx,rep,NC,5,Republican,VirginiaFoxx,16256269,RepVirginiaFoxx,repvirginiafoxx,,Virginia Foxx,,Virginia Foxx
+Garamendi,John,,,,John Garamendi,rep,CA,8,Democrat,RepGaramendi,88806753,repgaramendi,garamendiCA10,,John Garamendi,,John Garamendi
+Gosar,Paul,A.,,,Paul A. Gosar,rep,AZ,9,Republican,RepGosar,240760644,repgosar,repgosar,,Paul Gosar,,Paul Gosar
+Granger,Kay,,,,Kay Granger,rep,TX,12,Republican,RepKayGranger,161743731,RepKayGranger,RepKayGranger,,Kay Granger,,Kay Granger
+Grassley,Charles,E.,,Chuck,Chuck Grassley,sen,IA,,Republican,ChuckGrassley,10615232,grassley,senchuckgrassley,,Chuck Grassley,,Chuck Grassley
+Graves,Sam,B.,,,Sam Graves,rep,MO,6,Republican,RepSamGraves,29766367,1.18515E+11,,,Sam Graves,,Sam Graves
+Green,Al,,,,Al Green,rep,TX,9,Democrat,RepAlGreen,156333623,repalgreen,RepAlGreen,,Al Green,,Al Green (politician)
+Griffith,H.,Morgan,,,H. Morgan Griffith,rep,VA,9,Republican,RepMGriffith,234057152,RepMorganGriffith,RepMorganGriffith,,Morgan Griffith,,Morgan Griffith
+Grijalva,Raúl,M.,,,Raúl M. Grijalva,rep,AZ,7,Democrat,RepRaulGrijalva,28602948,Rep.Grijalva,raulgrijalvaaz07,@RepRaulGrijalva@mastodon.social,Raul Grijalva,,Raúl Grijalva
+Guthrie,Brett,,,,Brett Guthrie,rep,KY,2,Republican,RepGuthrie,1908143071,CongressmanGuthrie,BrettGuthrie,,Brett Guthrie,,Brett Guthrie
+Harris,Andy,,,,Andy Harris,rep,MD,1,Republican,RepAndyHarrisMD,960962340,AndyHarrisMD,RepAndyHarris,,Andrew Harris,,Andy Harris (politician)
+Heinrich,Martin,,,,Martin Heinrich,sen,NM,,Democrat,MartinHeinrich,1099199839,MartinHeinrich,SenMartinHeinrich,,Martin Heinrich,,Martin Heinrich
+Higgins,Brian,M.,,,Brian Higgins,rep,NY,26,Democrat,RepBrianHiggins,33576489,RepBrianHiggins,CongressmanHiggins,,Brian Higgins,,Brian Higgins
+Himes,James,A.,,Jim,James A. Himes,rep,CT,4,Democrat,,,CongressmanJimHimes,congressmanhimes,@RepJimHimes@mastodon.social,Jim Himes,,Jim Himes
+Hirono,Mazie,K.,,,Mazie K. Hirono,sen,HI,,Democrat,MazieHirono,92186819,senatorhirono,CongresswomanHirono,,Mazie K. Hirono,,Mazie Hirono
+Hoeven,John,,,,John Hoeven,sen,ND,,Republican,SenJohnHoeven,382791093,SenatorJohnHoeven,senatorjohnhoevennd,,John Hoeven,,John Hoeven
+Hoyer,Steny,H.,,,Steny H. Hoyer,rep,MD,5,Democrat,RepStenyHoyer,22012091,WhipHoyer,LeaderHoyer,,Steny Hoyer,,Steny Hoyer
+Huizenga,Bill,,,,Bill Huizenga,rep,MI,4,Republican,RepHuizenga,233949261,RepHuizenga,RepHuizenga,,Bill Huizenga,,Bill Huizenga
+Jackson Lee,Sheila,,,,Sheila Jackson Lee,rep,TX,18,Democrat,JacksonLeeTX18,80612021,CongresswomanSheilaJacksonLee,TX18SJL,,Sheila Jackson Lee,,Sheila Jackson Lee
+Johnson,Bill,,,,Bill Johnson,rep,OH,6,Republican,RepBillJohnson,211530910,RepBillJohnson,RepBillJohnson,,Bill Johnson (Ohio),,Bill Johnson (Ohio politician)
+Johnson,Henry,C.,Jr.,Hank,"Henry C. ""Hank"" Johnson, Jr.",rep,GA,4,Democrat,RepHankJohnson,24745957,1.15357E+11,RepHankJohnson,,"Henry C. Johnson, Jr.",,Hank Johnson
+Johnson,Ron,,,,Ron Johnson,sen,WI,,Republican,SenRonJohnson,233737858,senronjohnson,SenatorRonJohnson,,Ron Johnson (Wisconsin),,Ron Johnson
+Jordan,Jim,,,,Jim Jordan,rep,OH,4,Republican,Jim_Jordan,18166778,repjimjordan,RepJimJordan,,Jim Jordan,,Jim Jordan (American politician)
+Kaptur,Marcy,,,,Marcy Kaptur,rep,OH,9,Democrat,RepMarcyKaptur,581141508,RepresentativeMarcyKaptur,USRepMarcyKaptur,,Marcy Kaptur,,Marcy Kaptur
+Keating,William,R.,,,William R. Keating,rep,MA,9,Democrat,USRepKeating,232992031,Congressman.Keating,RepBillKeating,,Bill Keating,,Bill Keating (politician)
+Kelly,Mike,,,,Mike Kelly,rep,PA,16,Republican,MikeKellyPA,935368364,1.91057E+14,repmikekelly,,Mike Kelly,,Mike Kelly (Pennsylvania politician)
+Lamborn,Doug,,,,Doug Lamborn,rep,CO,5,Republican,RepDLamborn,584012853,CongressmanDougLamborn,CongressmanLamborn,,Doug Lamborn,,Doug Lamborn
+Lankford,James,,,,James Lankford,sen,OK,,Republican,SenatorLankford,225921757,SenatorLankford,SenatorLankford,,James Lankford,,James Lankford
+Larsen,Rick,,,,Rick Larsen,rep,WA,2,Democrat,RepRickLarsen,404132211,RepRickLarsen,congressmanlarsen,,Rick Larsen,,Rick Larsen
+Larson,John,B.,,,John B. Larson,rep,CT,1,Democrat,RepJohnLarson,50452197,RepJohnLarson,RepJohnLarson,,John B. Larson,,John B. Larson
+Latta,Robert,E.,,,Robert E. Latta,rep,OH,5,Republican,BobLatta,15394954,boblatta,CongressmanBobLatta,,Robert E. Latta,,Bob Latta
+Lee,Barbara,,,,Barbara Lee,rep,CA,12,Democrat,RepBarbaraLee,248735463,RepBarbaraLee,RepLee,,Barbara Lee (California),,Barbara Lee
+Lee,Mike,,,,Mike Lee,sen,UT,,Republican,SenMikeLee,88784440,senatormikelee,senatormikelee,,Mike Lee,,Mike Lee
+Lofgren,Zoe,,,,Zoe Lofgren,rep,CA,18,Democrat,RepZoeLofgren,267938462,zoelofgren,RepZoeLofgren,,Zoe Lofgren,,Zoe Lofgren
+Lucas,Frank,D.,,,Frank D. Lucas,rep,OK,3,Republican,RepFrankLucas,242772524,RepFrankLucas,RepFrankLucas,,Frank D. Lucas,,Frank Lucas (Oklahoma politician)
+Luetkemeyer,Blaine,,,,Blaine Luetkemeyer,rep,MO,3,Republican,RepBlaine,1849261916,BlaineLuetkemeyer,BLuetkemeyer,,Blaine Luetkemeyer,,Blaine Luetkemeyer
+Luján,Ben,Ray,,,Ben Ray Luján,sen,NM,,Democrat,SenatorLujan,19318314,,,,Ben Ray Luján,,Ben Ray Luján
+Lynch,Stephen,F.,,,Stephen F. Lynch,rep,MA,8,Democrat,RepStephenLynch,310310133,repstephenlynch,RepLynch,,Stephen Lynch,,Stephen Lynch (politician)
+Markey,Edward,J.,,Ed,Edward J. Markey,sen,MA,,Democrat,SenMarkey,21406834,EdJMarkey,RepMarkey,,Ed Markey,,Ed Markey
+Matsui,Doris,O.,,,Doris O. Matsui,rep,CA,7,Democrat,DorisMatsui,38254095,doris.matsui,RepDorisMatsui,,Doris Matsui,,Doris Matsui
+McCarthy,Kevin,,,,Kevin McCarthy,rep,CA,20,Republican,GOPLeader,19739126,CongressmanKevinMcCarthy,repkevinmccarthy,,Kevin McCarthy (California),,Kevin McCarthy
+McCaul,Michael,T.,,,Michael T. McCaul,rep,TX,10,Republican,RepMcCaul,26424123,michaeltmccaul,MichaelTMcCaul,,Michael McCaul,,Michael McCaul
+McClintock,Tom,,,,Tom McClintock,rep,CA,5,Republican,RepMcClintock,50152441,81125319109,McClintockCA04,,Tom McClintock,,Tom McClintock
+McCollum,Betty,Louise,,,Betty McCollum,rep,MN,4,Democrat,BettyMcCollum04,516880804,repbettymccollum,BMcCollum04,,Betty McCollum,,Betty McCollum
+McGovern,James,P.,,Jim,James P. McGovern,rep,MA,2,Democrat,RepMcGovern,242426145,RepJimMcGovern,repjimmcgovern,,Jim McGovern (Massachusetts),,Jim McGovern (American politician)
+McHenry,Patrick,T.,,,Patrick T. McHenry,rep,NC,10,Republican,PatrickMcHenry,27676828,CongressmanMcHenry,CongressmanMcHenry,,Patrick T. McHenry,,Patrick McHenry
+McMorris Rodgers,Cathy,Anne,,,Cathy McMorris Rodgers,rep,WA,5,Republican,CathyMcMorris,17976923,mcmorrisrodgers,mcmorrisrodgers,,Cathy McMorris Rodgers,,Cathy McMorris Rodgers
+Meeks,Gregory,W.,,,Gregory W. Meeks,rep,NY,5,Democrat,RepGregoryMeeks,22812754,gregorymeeksny05,gwmeeks,,Gregory Meeks,,Gregory Meeks
+Moore,Gwen,,,,Gwen Moore,rep,WI,4,Democrat,RepGwenMoore,22669526,GwenSMoore,RepGwenMoore,,Gwen Moore,,Gwen Moore
+Moran,Jerry,,,,Jerry Moran,sen,KS,,Republican,JerryMoran,18632666,jerrymoran,senatorjerrymoran,,Jerry Moran,,Jerry Moran
+Murkowski,Lisa,A.,,,Lisa Murkowski,sen,AK,,Republican,LisaMurkowski,18061669,SenLisaMurkowski,senatormurkowski,,Lisa Murkowski,,Lisa Murkowski
+Murphy,Christopher,S.,,,Christopher Murphy,sen,CT,,Democrat,SenMurphyOffice,2853793517,chrismurphyct,senchrismurphy,,Christopher S. Murphy,,Chris Murphy
+Murray,Patty,,,,Patty Murray,sen,WA,,Democrat,PattyMurray,293131808,,SenatorPattyMurray,,Patty Murray,,Patty Murray
+Nadler,Jerrold,L.,,,Jerrold Nadler,rep,NY,12,Democrat,RepJerryNadler,40302336,CongressmanNadler,congressmannadler,,Jerrold Nadler,,Jerry Nadler
+Napolitano,Grace,F.,,,Grace F. Napolitano,rep,CA,31,Democrat,GraceNapolitano,161411080,RepGraceNapolitano,RepGraceNapolitano,,Grace Napolitano,,Grace Napolitano
+Neal,Richard,E.,,,Richard E. Neal,rep,MA,1,Democrat,RepRichardNeal,442824717,reprichardneal,RepRichardENeal,,Richard Neal,,Richard Neal
+Norton,Eleanor,Holmes,,,Eleanor Holmes Norton,rep,DC,0,Democrat,EleanorNorton,23600262,CongresswomanNorton,EleanorHNorton,@CongresswomanNorton@Mastodon.social,,,Eleanor Holmes Norton
+Pallone,Frank,J.,Jr.,,"Frank Pallone, Jr.",rep,NJ,6,Democrat,FrankPallone,31801993,repfrankpallone,repfrankpallone,,Frank Pallone,,Frank Pallone
+Pascrell,Bill,J.,Jr.,,"Bill Pascrell, Jr.",rep,NJ,9,Democrat,BillPascrell,74508260,pascrell,RepPascrell,,Bill Pascrell,,Bill Pascrell
+Paul,Rand,,,,Rand Paul,sen,KY,,Republican,SenRandPaul,1.29862E+18,SenatorRandPaul,SenatorRandPaul,,Rand Paul,,Rand Paul
+Pelosi,Nancy,,,,Nancy Pelosi,rep,CA,11,Democrat,SpeakerPelosi,15764644,NancyPelosi,nancypelosi,,Nancy Pelosi,,Nancy Pelosi
+Peters,Gary,C.,,,Gary C. Peters,sen,MI,,Democrat,SenGaryPeters,236511574,SenGaryPeters,RepGaryPeters,,Gary Peters,,Gary Peters
+Pingree,Chellie,,,,Chellie Pingree,rep,ME,1,Democrat,ChelliePingree,14984637,ChelliePingree,congresswomanpingree,@chelliepingree@mastodon.social,Chellie Pingree,,Chellie Pingree
+Posey,Bill,,,,Bill Posey,rep,FL,8,Republican,CongBillPosey,25086658,bill.posey15,CongressmanPosey,,Bill Posey,,Bill Posey
+Quigley,Mike,,,,Mike Quigley,rep,IL,5,Democrat,RepMikeQuigley,56864092,repmikequigley,RepMikeQuigley,,Michael Quigley,,Mike Quigley (politician)
+Rogers,Harold,,,Hal,Harold Rogers,rep,KY,5,Republican,RepHalRogers,550401754,CongressmanHalRogers,RepHalRogers,,Harold Rogers,,Hal Rogers
+Rogers,Mike,,,,Mike Rogers,rep,AL,3,Republican,RepMikeRogersAL,33977070,CongressmanMikeDRogers,MikeRogersAL03,,Mike Rogers (Alabama),,Mike Rogers (Alabama politician)
+Rubio,Marco,,,,Marco Rubio,sen,FL,,Republican,SenRubioPress,229966028,SenatorMarcoRubio,SenatorMarcoRubio,,Marco Rubio,,Marco Rubio
+Ruppersberger,C.,A. Dutch,,,C. A. Dutch Ruppersberger,rep,MD,2,Democrat,Call_Me_Dutch,305620929,DutchRupp,ruppersberger,,Dutch Ruppersberger,,Dutch Ruppersberger
+Sablan,Gregorio,Kilili Camacho,,,Gregorio Kilili Camacho Sablan,rep,MP,0,Democrat,Kilili_Sablan,9.26446E+17,1.53424E+11,CongressmanSablan,,,,Gregorio Sablan
+Sarbanes,John,P.,,,John P. Sarbanes,rep,MD,3,Democrat,RepSarbanes,364415553,RepSarbanes,RepJohnSarbanes,,John Sarbanes,,John Sarbanes
+Scalise,Steve,Joseph,,,Steve Scalise,rep,LA,1,Republican,SteveScalise,1209417007,RepSteveScalise,RepSteveScalise,,Steve Scalise,,Steve Scalise
+Schakowsky,Janice,D.,,Jan,Janice D. Schakowsky,rep,IL,9,Democrat,JanSchakowsky,24195214,janschakowsky,repschakowsky,,Jan Schakowsky,,Jan Schakowsky
+Schiff,Adam,B.,,,Adam B. Schiff,rep,CA,30,Democrat,RepAdamSchiff,29501253,RepAdamSchiff,adamschiff,,Adam Schiff,,Adam Schiff
+Schumer,Charles,E.,,Chuck,Charles E. Schumer,sen,NY,,Democrat,SenSchumer,17494010,senschumer,SenatorSchumer,,Chuck Schumer,,Chuck Schumer
+Schweikert,David,,,,David Schweikert,rep,AZ,1,Republican,RepDavid,229197216,repdavidschweikert,RepDavidSchweikert,,David Schweikert,,David Schweikert
+Scott,Austin,,,,Austin Scott,rep,GA,8,Republican,AustinScottGA08,234797704,RepAustinScott,RepAustinScott,,Austin Scott,,Austin Scott (politician)
+Scott,David,,,,David Scott,rep,GA,13,Democrat,RepDavidScott,168673083,1.13304E+11,RepDavidScott,,David Scott (Georgia),,David Scott (Georgia politician)
+Scott,Robert,C.,,Bobby,"Robert C. ""Bobby"" Scott",rep,VA,3,Democrat,BobbyScott,161791703,RepBobbyScott,repbobbyscott,,Robert C. Scott,,Bobby Scott (politician)
+Scott,Tim,,,,Tim Scott,sen,SC,,Republican,SenatorTimScott,217543151,SenatorTimScott,SenatorTimScott,,Tim Scott,,Tim Scott
+Sewell,Terri,A.,,,Terri A. Sewell,rep,AL,7,Democrat,RepTerriSewell,381152398,RepSewell,RepSewell,,Terri Sewell,,Terri Sewell
+Sherman,Brad,J.,,,Brad Sherman,rep,CA,32,Democrat,BradSherman,30216513,63158229861,shermanca27,,Brad Sherman,,Brad Sherman
+Simpson,Michael,K.,,Mike,Michael K. Simpson,rep,ID,2,Republican,CongMikeSimpson,76132891,96007744606,CongMikeSimpson,,Michael K. Simpson,,Mike Simpson
+Smith,Adam,,,,Adam Smith,rep,WA,9,Democrat,RepAdamSmith,58928690,RepAdamSmith,CongressmanAdamSmith,,Adam Smith,,Adam Smith (Washington politician)
+Smith,Adrian,,,,Adrian Smith,rep,NE,3,Republican,RepAdrianSmith,296245061,,RepAdrianSmith,,Adrian Smith,,Adrian Smith (politician)
+Smith,Christopher,H.,,Chris,Christopher H. Smith,rep,NJ,4,Republican,,,RepChrisSmith,USRepChrisSmith,,Chris Smith (New Jersey),,Chris Smith (New Jersey politician)
+Sánchez,Linda,T.,,,Linda T. Sánchez,rep,CA,38,Democrat,RepLindaSanchez,312134473,CongresswomanLindaSanchez,LindaTSanchez,,Linda Sánchez,,Linda Sánchez
+Thompson,Bennie,G.,,,Bennie G. Thompson,rep,MS,2,Democrat,BennieGThompson,82453460,CongressmanBennieGThompson,RepBennieThompson,,Bennie Thompson,,Bennie Thompson
+Thompson,Mike,Michael,,,Mike Thompson,rep,CA,4,Democrat,RepThompson,303861808,RepMikeThompson,CongressmanMThompson,@repthompson@mastodon.social,Mike Thompson (California),,Mike Thompson (California politician)
+Thompson,Glenn,,,,Glenn Thompson,rep,PA,15,Republican,CongressmanGT,18967498,CongressmanGT,CongressmanGT,,Glenn Thompson (Pennsylvania),,Glenn Thompson (politician)
+Thune,John,,,,John Thune,sen,SD,,Republican,SenJohnThune,296361085,,johnthune,,John Thune,,John Thune
+Tonko,Paul,,,,Paul Tonko,rep,NY,20,Democrat,RepPaulTonko,84119348,reppaultonko,reppaultonko,,Paul Tonko,,Paul Tonko
+Turner,Michael,R.,,,Michael R. Turner,rep,OH,10,Republican,RepMikeTurner,51228911,RepMikeTurner,CongressmanTurner,,Michael R. Turner,,Mike Turner
+Van Hollen,Chris,,,,Chris Van Hollen,sen,MD,,Democrat,ChrisVanHollen,18137749,chrisvanhollen,RepChrisVanHollen,,Chris Van Hollen,,Chris Van Hollen
+Velázquez,Nydia,M.,,,Nydia M. Velázquez,rep,NY,7,Democrat,NydiaVelazquez,164369297,8037068318,nydiavelazquez,,Nydia Velazquez,,Nydia Velázquez
+Walberg,Tim,,,,Tim Walberg,rep,MI,5,Republican,RepWalberg,237862972,RepWalberg,RepWalberg,,Tim Walberg,,Tim Walberg
+Wasserman Schultz,Debbie,,,,Debbie Wasserman Schultz,rep,FL,25,Democrat,RepDWStweets,1140648348,RepDWS,RepWassermanSchultz,,Debbie Wasserman Schultz,,Debbie Wasserman Schultz
+Waters,Maxine,,,,Maxine Waters,rep,CA,43,Democrat,RepMaxineWaters,36686040,MaxineWaters,MaxineWaters,,Maxine Waters,,Maxine Waters
+Webster,Daniel,,,,Daniel Webster,rep,FL,11,Republican,RepWebster,281540744,RepWebster,repdanwebster,,Daniel Webster,,Daniel Webster (Florida politician)
+Welch,Peter,,,,Peter Welch,sen,VT,,Democrat,PeterWelch,1410590874,PeterWelch,reppeterwelch,,Peter Welch,,Peter Welch
+Wilson,Joe,G.,,,Joe Wilson,rep,SC,2,Republican,RepJoeWilson,254082173,JoeWilson,RepJoeWilson,,Joe Wilson,,Joe Wilson (American politician)
+Wilson,Frederica,S.,,,Frederica S. Wilson,rep,FL,24,Democrat,RepWilson,234014087,RepWilson,repfredericawilson,,Frederica Wilson,,Frederica Wilson
+Wittman,Robert,J.,,,Robert J. Wittman,rep,VA,1,Republican,RobWittman,15356407,RepRobWittman,RobWittman,,Robert J. Wittman,,Rob Wittman
+Womack,Steve,,,,Steve Womack,rep,AR,3,Republican,Rep_SteveWomack,234469322,RepSteveWomack,CongressmanWomack,,Steve Womack,,Steve Womack
+Wyden,Ron,,,,Ron Wyden,sen,OR,,Democrat,RonWyden,250188760,,senronwyden,,Ron Wyden,,Ron Wyden
+Young,Todd,C.,,,Todd Young,sen,IN,,Republican,SenToddYoung,234128524,SenatorToddYoung,RepToddYoung,,Todd Young,,Todd Young
+Amodei,Mark,E.,,,Mark E. Amodei,rep,NV,2,Republican,MarkAmodeiNV2,402719755,MarkAmodeiNV2,markamodeinv2,,Mark Amodei,,Mark Amodei
+Bonamici,Suzanne,,,,Suzanne Bonamici,rep,OR,1,Democrat,RepBonamici,558769636,congresswomanbonamici,RepSuzanneBonamici,,Suzanne Bonamici,,Suzanne Bonamici
+DelBene,Suzan,K.,,,Suzan K. DelBene,rep,WA,1,Democrat,RepDelBene,995193054,RepDelBene,,,Suzan DelBene,,Suzan DelBene
+Massie,Thomas,,,,Thomas Massie,rep,KY,4,Republican,RepThomasMassie,975200486,RepThomasMassie,repthomasmassie,,Thomas Massie,,Thomas Massie
+Payne,Donald,M.,Jr.,,"Donald M. Payne, Jr.",rep,NJ,10,Democrat,RepDonaldPayne,1155335864,DonaldPayneJr,,,Donald Payne Jr.,,Donald Payne Jr.
+Schatz,Brian,Emanuel,,,Brian Schatz,sen,HI,,Democrat,SenBrianSchatz,1262099252,SenBrianSchatz,senbrianschatz,,Brian E. Schatz,,Brian Schatz
+Foster,Bill,,,,Bill Foster,rep,IL,11,Democrat,RepBillFoster,1080509366,CongressmanBillFoster,RepBillFoster,,Bill Foster,,Bill Foster (politician)
+Titus,Dina,,,,Dina Titus,rep,NV,1,Democrat,RepDinaTitus,122174004,CongresswomanTitus,CongresswomanTitus,,Dina Titus,,Dina Titus
+Cotton,Tom,,,,Tom Cotton,sen,AR,,Republican,SenTomCotton,968650362,SenatorTomCotton,RepTomCotton,,Tom Cotton,,Tom Cotton
+Sinema,Kyrsten,,,,Kyrsten Sinema,sen,AZ,,Independent,SenatorSinema,1080844782,CongresswomanSinema,repsinema,,Kyrsten Sinema,,Kyrsten Sinema
+LaMalfa,Doug,,,,Doug LaMalfa,rep,CA,1,Republican,RepLaMalfa,1069124515,RepLaMalfa,RepLaMalfa,,Doug LaMalfa,,Doug LaMalfa
+Huffman,Jared,,,,Jared Huffman,rep,CA,2,Democrat,RepHuffman,1071102246,RepHuffman,rephuffman,,Jared Huffman,,Jared Huffman
+Bera,Ami,,,,Ami Bera,rep,CA,6,Democrat,RepBera,950783972,RepAmiBera,repamibera,,Ami Bera,,Ami Bera
+Swalwell,Eric,,,,Eric Swalwell,rep,CA,14,Democrat,RepSwalwell,942156122,CongressmanEricSwalwell,ericswalwell,,Eric Swalwell,,Eric Swalwell
+Brownley,Julia,,,,Julia Brownley,rep,CA,26,Democrat,RepBrownley,1243902714,RepJuliaBrownley,RepJuliaBrownley,,Julia Brownley,,Julia Brownley
+Cárdenas,Tony,,,,Tony Cárdenas,rep,CA,29,Democrat,RepCardenas,1222257180,repcardenas,repcardenas,,Tony Cardenas,,Tony Cárdenas
+Ruiz,Raul,,,,Raul Ruiz,rep,CA,25,Democrat,RepRaulRuizMD,1089859058,CongressmanRaulRuizMD,repraulruiz,,Raul Ruiz,,Raul Ruiz (politician)
+Takano,Mark,,,,Mark Takano,rep,CA,39,Democrat,RepMarkTakano,1037321378,RepMarkTakano,RepMarkTakano,,Mark Takano,,Mark Takano
+Vargas,Juan,,,,Juan Vargas,rep,CA,52,Democrat,RepJuanVargas,1260172386,RepJuanVargas,RepJuanVargas,,Juan Vargas,,Juan Vargas
+Peters,Scott,H.,,,Scott H. Peters,rep,CA,50,Democrat,RepScottPeters,1135486501,RepScottPeters,,,Scott Peters,,Scott Peters (politician)
+Frankel,Lois,,,,Lois Frankel,rep,FL,22,Democrat,RepLoisFrankel,1077121945,RepLoisFrankel,reploisfrankel,,Lois Frankel,,Lois Frankel
+Duckworth,Tammy,,,,Tammy Duckworth,sen,IL,,Democrat,SenDuckworth,1058520120,SenDuckworth,repduckworth,,Tammy Duckworth,,Tammy Duckworth
+Barr,Garland,,,Andy,Andy Barr,rep,KY,6,Republican,RepAndyBarr,1089334250,RepAndyBarr,RepAndyBarr,,Andy Barr,,Andy Barr (American politician)
+Warren,Elizabeth,,,,Elizabeth Warren,sen,MA,,Democrat,SenWarren,970207298,senatorelizabethwarren,senelizabethwarren,,Elizabeth Warren,,Elizabeth Warren
+King,Angus,S.,Jr.,,"Angus S. King, Jr.",sen,ME,,Independent,SenAngusKing,1068481578,SenatorAngusSKingJr,SenatorAngusKing,,Angus King,,Angus King
+Kildee,Daniel,T.,,,Daniel T. Kildee,rep,MI,8,Democrat,RepDanKildee,1045110018,RepDanKildee,RepDanKildee,,Dan Kildee,,Dan Kildee
+Wagner,Ann,,,,Ann Wagner,rep,MO,2,Republican,RepAnnWagner,1051446626,RepAnnWagner,,,Ann Wagner,,Ann Wagner
+Daines,Steve,,,,Steve Daines,sen,MT,,Republican,SteveDaines,11651202,SteveDainesMT,SteveDainesMT,,Steve Daines,,Steve Daines
+Hudson,Richard,,,,Richard Hudson,rep,NC,9,Republican,RepRichHudson,935033864,RepRichHudson,RepRichHudson,,Richard Hudson,,Richard Hudson (American politician)
+Cramer,Kevin,,,,Kevin Cramer,sen,ND,,Republican,SenKevinCramer,1048784496,CongressmanKevinCramer,kevincramer,,Kevin Cramer,,Kevin Cramer
+Fischer,Deb,,,,Deb Fischer,sen,NE,,Republican,SenatorFischer,1071402577,senatordebfischer,senatordebfischer,,Deb Fischer,,Deb Fischer
+Kuster,Ann,M.,,,Ann M. Kuster,rep,NH,2,Democrat,RepAnnieKuster,1058717720,CongresswomanAnnieKuster,RepKuster,,Annie Kuster,,Annie Kuster
+Meng,Grace,,,,Grace Meng,rep,NY,6,Democrat,RepGraceMeng,1051127714,repgracemeng,,,Grace Meng,,Grace Meng
+Jeffries,Hakeem,S.,,,Hakeem S. Jeffries,rep,NY,8,Democrat,RepJeffries,467823431,RepHakeemJeffries,,,Hakeem Jeffries,,Hakeem Jeffries
+Wenstrup,Brad,R.,,,Brad R. Wenstrup,rep,OH,2,Republican,RepBradWenstrup,518644221,RepBradWenstrup,repbradwenstrup,,Brad Wenstrup,,Brad Wenstrup
+Beatty,Joyce,,,,Joyce Beatty,rep,OH,3,Democrat,RepBeatty,1531521632,RepJoyceBeatty,,,Joyce Beatty,,Joyce Beatty
+Joyce,David,P.,,,David P. Joyce,rep,OH,14,Republican,RepDaveJoyce,976969338,RepDaveJoyce,repdavejoyce,,David Joyce,,David Joyce (politician)
+Mullin,Markwayne,,,,Markwayne Mullin,sen,OK,,Republican,SenMullin,1060370282,RepMullin,,,Markwayne Mullin,,Markwayne Mullin
+Perry,Scott,,,,Scott Perry,rep,PA,10,Republican,RepScottPerry,18773159,repscottperry,RepScottPerry,,Scott Perry,,Scott Perry (politician)
+Cartwright,Matthew,A.,,Matt,Matt Cartwright,rep,PA,8,Democrat,RepCartwright,776664410,CongressmanMattCartwright,,,Matt Cartwright,,Matt Cartwright
+Cruz,Ted,,,,Ted Cruz,sen,TX,,Republican,SenTedCruz,1074480192,SenatorTedCruz,sentedcruz,,Ted Cruz,,Ted Cruz
+Weber,Randy,K.,Sr.,,"Randy K. Weber, Sr.",rep,TX,14,Republican,TXRandy14,1058051748,TXRandy14,TXRandy14,,Randy Weber,,Randy Weber
+Castro,Joaquin,,,,Joaquin Castro,rep,TX,20,Democrat,JoaquinCastrotx,231510077,3.26421E+14,JoaquinCastroTX,@Joaquincastrotx@mastodon.social,Joaquin Castro,,Joaquin Castro
+Williams,Roger,,,,Roger Williams,rep,TX,25,Republican,RepRWilliams,1077446982,RepRogerWilliams,,,Roger Williams,,Roger Williams (Texas politician)
+Veasey,Marc,A.,,,Marc A. Veasey,rep,TX,33,Democrat,RepVeasey,1074129612,CongressmanMarcVeasey,marcveasey,,Marc Veasey,,Marc Veasey
+Stewart,Chris,,,,Chris Stewart,rep,UT,2,Republican,RepChrisStewart,1072008757,RepChrisStewart,repchrisstewart,,Chris Stewart,,Chris Stewart (politician)
+Kaine,Timothy,,,Tim,Tim Kaine,sen,VA,,Democrat,,,SenatorKaine,SenatorTimKaine,,Tim Kaine,,Tim Kaine
+Kilmer,Derek,,,,Derek Kilmer,rep,WA,6,Democrat,RepDerekKilmer,1058917562,derek.kilmer,,,Derek Kilmer,,Derek Kilmer
+Pocan,Mark,,,,Mark Pocan,rep,WI,2,Democrat,RepMarkPocan,1206227149,repmarkpocan,repmarkpocan,,Mark Pocan,,Mark Pocan
+Kelly,Robin,L.,,,Robin L. Kelly,rep,IL,2,Democrat,RepRobinKelly,1339931490,reprobinkelly,,,Robin Kelly,,Robin Kelly
+Smith,Jason,T.,,,Jason Smith,rep,MO,8,Republican,RepJasonSmith,1623308912,repjasonsmith,RepJasonSmith,,Jason Smith (Missouri representative),,Jason Smith (American politician)
+Booker,Cory,Anthony,,,Cory A. Booker,sen,NJ,,Democrat,SenBooker,2167097881,,SenCoryBooker,,Cory Booker,,Cory Booker
+Clark,Katherine,M.,,,Katherine M. Clark,rep,MA,5,Democrat,RepKClark,2293131060,CongresswomanClark,,,Katherine Clark,,Katherine Clark
+Norcross,Donald,W.,,,Donald Norcross,rep,NJ,1,Democrat,DonaldNorcross,3122099613,DonaldNorcrossNJ,,,Donald Norcross,,Donald Norcross
+Adams,Alma,S.,,,Alma S. Adams,rep,NC,12,Democrat,RepAdams,2916086925,CongresswomanAdams,,@RepAdams@mastodon.social,Alma Adams,,Alma Adams
+Palmer,Gary,J.,,,Gary J. Palmer,rep,AL,6,Republican,USRepGaryPalmer,2861616083,CongressmanGaryPalmer,,,Gary Palmer,,Gary Palmer (politician)
+Hill,J.,French,,,J. French Hill,rep,AR,2,Republican,RepFrenchHill,2953974395,RepFrenchHill,,,French Hill,,French Hill (politician)
+Westerman,Bruce,,,,Bruce Westerman,rep,AR,4,Republican,RepWesterman,2852998461,RepWesterman,,,Bruce Westerman,,Bruce Westerman
+Gallego,Ruben,,,,Ruben Gallego,rep,AZ,3,Democrat,RepRubenGallego,2966570782,RepRubenGallego,,,Ruben Gallego,,Ruben Gallego
+DeSaulnier,Mark,,,,Mark DeSaulnier,rep,CA,10,Democrat,RepDeSaulnier,2968007206,RepMarkDeSaulnier,,,Mark DeSaulnier,,Mark DeSaulnier
+Aguilar,Pete,,,,Pete Aguilar,rep,CA,33,Democrat,RepPeteAguilar,3018670151,reppeteaguilar,,,Pete Aguilar,,Pete Aguilar
+Lieu,Ted,,,,Ted Lieu,rep,CA,36,Democrat,RepTedLieu,3044993235,RepTedLieu,,,Ted Lieu,,Ted Lieu
+Torres,Norma,J.,,,Norma J. Torres,rep,CA,35,Democrat,NormaJTorres,236279233,RepNormaTorres,,@repnormatorres@mstdn.social,Norma Torres,,Norma Torres
+Buck,Ken,,,,Ken Buck,rep,CO,4,Republican,RepKenBuck,2862577383,repkenbuck,,,Ken Buck,,Ken Buck
+Carter,Earl,L.,,Buddy,"Earl L. ""Buddy"" Carter",rep,GA,1,Republican,RepBuddyCarter,2973870195,congressmanbuddycarter,,,"Earl ""Buddy"" Carter",,Buddy Carter
+Loudermilk,Barry,,,,Barry Loudermilk,rep,GA,11,Republican,RepLoudermilk,2914163523,reploudermilk,,,Barry Loudermilk,,Barry Loudermilk
+Allen,Rick,W.,,,Rick W. Allen,rep,GA,12,Republican,RepRickAllen,2964287128,CongressmanRickAllen,,,Rick Allen,,Rick Allen (politician)
+Bost,Mike,,,,Mike Bost,rep,IL,12,Republican,RepBost,2964877294,RepBost,,,Mike Bost,,Mike Bost
+Graves,Garret,,,,Garret Graves,rep,LA,6,Republican,RepGarretGraves,2951574214,CongressmanGarretGraves,,,Garret Graves,,Garret Graves
+Moulton,Seth,,,,Seth Moulton,rep,MA,6,Democrat,RepMoulton,3091316093,CongressmanSethMoulton,,,Seth Moulton,,Seth Moulton
+Moolenaar,John,R.,,,John R. Moolenaar,rep,MI,2,Republican,RepMoolenaar,2696643955,RepMoolenaar,,,John Moolenaar,,John Moolenaar
+Dingell,Debbie,,,,Debbie Dingell,rep,MI,6,Democrat,RepDebDingell,2970279814,RepDebbieDingell,,,Debbie Dingell,,Debbie Dingell
+Emmer,Tom,,,,Tom Emmer,rep,MN,6,Republican,RepTomEmmer,2914515430,reptomemmer,RepTomEmmer,,Tom Emmer,,Tom Emmer
+Rouzer,David,,,,David Rouzer,rep,NC,7,Republican,RepDavidRouzer,834069080,RepRouzer,,,David Rouzer,,David Rouzer
+Watson Coleman,Bonnie,,,,Bonnie Watson Coleman,rep,NJ,12,Democrat,RepBonnie,2968451607,RepBonnie,,,,,Bonnie Watson Coleman
+Stefanik,Elise,M.,,,Elise M. Stefanik,rep,NY,21,Republican,RepStefanik,2962813893,RepEliseStefanik,,,Elise Stefanik,,Elise Stefanik
+Boyle,Brendan,F.,,,Brendan F. Boyle,rep,PA,2,Democrat,CongBoyle,4304448314,CongressmanBoyle,,,Brendan Boyle,,Brendan Boyle
+Babin,Brian,,,,Brian Babin,rep,TX,36,Republican,RepBrianBabin,2929491549,RepBrianBabin,,,Brian Babin,,Brian Babin
+Beyer,Donald,S.,Jr.,,"Donald S. Beyer, Jr.",rep,VA,8,Democrat,RepDonBeyer,2962868158,RepDonBeyer,,@RepDonBeyer@mas.to,Don Beyer,,Don Beyer
+Plaskett,Stacey,E.,,,Stacey E. Plaskett,rep,VI,0,Democrat,StaceyPlaskett,2724095695,repstaceyplaskett,,,,,Stacey Plaskett
+Newhouse,Dan,,,,Dan Newhouse,rep,WA,4,Republican,RepNewhouse,2930635215,RepNewhouse,,,Dan Newhouse,,Dan Newhouse
+Grothman,Glenn,,,,Glenn Grothman,rep,WI,6,Republican,RepGrothman,2976606250,RepGrothman,,,Glenn Grothman,,Glenn Grothman
+Mooney,Alexander,X.,,,Alexander X. Mooney,rep,WV,2,Republican,RepAlexMooney,2964526557,CongressmanAlexMooney,,,Alexander Mooney,,Alex Mooney
+Radewagen,Aumua Amata,Coleman,,,Aumua Amata Coleman Radewagen,rep,AS,0,Republican,RepAmata,3026622545,aumuaamata,,,Amata Radewagen,,Amata Coleman Radewagen
+Sullivan,Dan,,,,Dan Sullivan,sen,AK,,Republican,SenDanSullivan,2891210047,SenDanSullivan,,,Daniel S. Sullivan,,Dan Sullivan (U.S. senator)
+Ernst,Joni,,,,Joni Ernst,sen,IA,,Republican,SenJoniErnst,2856787757,senjoniernst,,,Joni Ernst,,Joni Ernst
+Tillis,Thom,,,,Thom Tillis,sen,NC,,Republican,SenThomTillis,2964174789,SenatorThomTillis,,,Thom Tillis (North Carolina),,Thom Tillis
+Rounds,Mike,,,,Mike Rounds,sen,SD,,Republican,SenatorRounds,2955485182,SenatorMikeRounds,,,Mike Rounds,,Mike Rounds
+Kelly,Trent,,,,Trent Kelly,rep,MS,1,Republican,RepTrentKelly,3317799825,reptrentkelly,,,Trent Kelly,,Trent Kelly
+LaHood,Darin,,,,Darin LaHood,rep,IL,16,Republican,RepLaHood,3686482216,replahood,,,Darin LaHood,,Darin LaHood
+Davidson,Warren,,,,Warren Davidson,rep,OH,8,Republican,WarrenDavidson,7.42736E+17,CongressmanWarrenDavidson,,,Warren Davidson,,Warren Davidson
+Comer,James,,,,James Comer,rep,KY,1,Republican,RepJamesComer,1.27485E+18,congressmancomer,,,James Comer Jr.,,James Comer (politician)
+Evans,Dwight,,,,Dwight Evans,rep,PA,3,Democrat,RepDwightEvans,90639372,RepDwightEvans,,,Dwight Evans,,Dwight Evans (politician)
+Kennedy,John,Neely,,,John Kennedy,sen,LA,,Republican,SenJohnKennedy,8.16683E+17,JohnKennedyLouisiana,,,John Neely Kennedy,,John Kennedy (Louisiana politician)
+Hassan,Margaret,Wood,,Maggie,Margaret Wood Hassan,sen,NH,,Democrat,SenatorHassan,946549322,SenatorHassan,,,Maggie Hassan,,Maggie Hassan
+Cortez Masto,Catherine,,,,Catherine Cortez Masto,sen,NV,,Democrat,SenCortezMasto,8.11314E+17,SenatorCortezMasto,,,Catherine Cortez Masto,,Catherine Cortez Masto
+Schneider,Bradley,Scott,,Brad,Bradley Scott Schneider,rep,IL,10,Democrat,RepSchneider,1071840474,CongressmanBradSchneider,RepBradSchneider,,Brad Schneider,,Brad Schneider
+Biggs,Andy,,,,Andy Biggs,rep,AZ,5,Republican,RepAndyBiggsAZ,8.16653E+17,RepAndyBiggs,,,Andy Biggs,,Andy Biggs
+Khanna,Ro,,,,Ro Khanna,rep,CA,17,Democrat,RepRoKhanna,8.16299E+17,RepRoKhanna,,,Ro Khanna,,Ro Khanna
+Panetta,Jimmy,,,,Jimmy Panetta,rep,CA,19,Democrat,RepJimmyPanetta,7.96737E+17,RepJimmyPanetta,,,Jimmy Panetta,,Jimmy Panetta
+Carbajal,Salud,O.,,,Salud O. Carbajal,rep,CA,24,Democrat,RepCarbajal,8.16158E+17,repsaludcarbajal,repcarbajal,,Salud Carbajal,,Salud Carbajal
+Barragán,Nanette,Diaz,,,Nanette Diaz Barragán,rep,CA,44,Democrat,RepBarragan,8.16834E+17,CongresswomanBarragan,,,Nanette Barragán,,Nanette Barragán
+Correa,J.,Luis,,,J. Luis Correa,rep,CA,46,Democrat,RepLouCorrea,8.15985E+17,RepLouCorrea,,,Lou Correa,,Lou Correa
+Blunt Rochester,Lisa,,,,Lisa Blunt Rochester,rep,DE,0,Democrat,RepLBR,8.1705E+17,Rep.BluntRochester,,,Lisa Blunt Rochester,,Lisa Blunt Rochester
+Gaetz,Matt,,,,Matt Gaetz,rep,FL,1,Republican,RepMattGaetz,8.18949E+17,CongressmanMattGaetz,,,Matt Gaetz,,Matt Gaetz
+Dunn,Neal,P.,,,Neal P. Dunn,rep,FL,2,Republican,DrNealDunnFL2,8.15952E+17,drnealdunnfl2,,,Neal Dunn,,Neal Dunn
+Rutherford,John,H.,,,John H. Rutherford,rep,FL,5,Republican,RepRutherfordFL,8.28977E+17,RepRutherfordFL,,,John Rutherford (Florida),,John Rutherford (Florida politician)
+Soto,Darren,,,,Darren Soto,rep,FL,9,Democrat,RepDarrenSoto,8.18713E+17,CongressmanDarrenSoto,repdarrensoto,,Darren Soto,,Darren Soto
+Mast,Brian,J.,,,Brian J. Mast,rep,FL,21,Republican,RepBrianMast,8.14104E+17,repbrianmast,repbrianmast,,Brian Mast,,Brian Mast
+Ferguson,A.,Drew,IV,,A. Drew Ferguson IV,rep,GA,3,Republican,RepDrewFerguson,8.06584E+17,RepDrewFerguson,,,Drew Ferguson,,Drew Ferguson (politician)
+Krishnamoorthi,Raja,,,,Raja Krishnamoorthi,rep,IL,8,Democrat,CongressmanRaja,8.14179E+17,congressmanraja,,,Raja Krishnamoorthi,,Raja Krishnamoorthi
+Banks,Jim,,,,Jim Banks,rep,IN,3,Republican,RepJimBanks,8.16131E+17,RepJimBanks,,,Jim Banks,,Jim Banks
+Marshall,Roger,,,,Roger Marshall,sen,KS,,Republican,SenatorMarshall,1.33634E+18,,,,Roger Marshall,,Roger Marshall (politician)
+Higgins,Clay,,,,Clay Higgins,rep,LA,3,Republican,RepClayHiggins,8.43637E+17,CongressmanClayHiggins,,,Clay Higgins,,Clay Higgins
+Johnson,Mike,,,,Mike Johnson,rep,LA,4,Republican,RepMikeJohnson,8.2728E+17,RepMikeJohnson,,,Mike Johnson (Louisiana),,Mike Johnson (Louisiana politician)
+Raskin,Jamie,,,,Jamie Raskin,rep,MD,8,Democrat,RepRaskin,8.06906E+17,repraskin,,,Jamie Raskin,,Jamie Raskin
+Bergman,Jack,,,,Jack Bergman,rep,MI,1,Republican,RepJackBergman,8.15242E+17,RepJackBergman,RepJackBergman,,Jack Bergman,,Jack Bergman
+Budd,Ted,,,,Ted Budd,sen,NC,,Republican,RepTedBudd,8.17138E+17,RepTedBudd,,,Ted Budd,,Ted Budd
+Bacon,Don,,,,Don Bacon,rep,NE,2,Republican,RepDonBacon,8.18975E+17,RepDonBacon,,,Don Bacon,,Don Bacon
+Gottheimer,Josh,,,,Josh Gottheimer,rep,NJ,5,Democrat,RepJoshG,8.15311E+17,RepJoshG,,,Josh Gottheimer,,Josh Gottheimer
+Rosen,Jacky,,,,Jacky Rosen,sen,NV,,Democrat,SenJackyRosen,8.18554E+17,RepJackyRosen,,,,,Jacky Rosen
+Espaillat,Adriano,,,,Adriano Espaillat,rep,NY,13,Democrat,RepEspaillat,8.17076E+17,RepEspaillat,,,Adriano Espaillat,,Adriano Espaillat
+Fitzpatrick,Brian,K.,,,Brian K. Fitzpatrick,rep,PA,1,Republican,RepBrianFitz,8.16303E+17,repbrianfitzpatrick,,,Brian Fitzpatrick,,Brian Fitzpatrick (American politician)
+Smucker,Lloyd,,,,Lloyd Smucker,rep,PA,11,Republican,RepSmucker,41417564,RepSmucker,,,Lloyd Smucker,,Lloyd Smucker
+González-Colón,Jenniffer,,,,Jenniffer González-Colón,rep,PR,0,Republican,RepJenniffer,8.19745E+17,RepJennifferGonzalezColon,,,,,Jenniffer González
+Kustoff,David,,,,David Kustoff,rep,TN,8,Republican,RepDavidKustoff,8.16012E+17,RepDavidKustoff,,,David Kustoff,,David Kustoff
+Gonzalez,Vicente,,,,Vicente Gonzalez,rep,TX,34,Democrat,RepGonzalez,8.18536E+17,USCongressmanVicenteGonzalez,,,Vicente Gonzalez Jr.,,Vicente Gonzalez (politician)
+Arrington,Jodey,C.,,,Jodey C. Arrington,rep,TX,19,Republican,RepArrington,8.16285E+17,JodeyArrington,,,Jodey Arrington,,Jodey Arrington
+Jayapal,Pramila,,,,Pramila Jayapal,rep,WA,7,Democrat,RepJayapal,8.15733E+17,RepJayapal,,@RepJayapal@mastodon.social,Pramila Jayapal,,Pramila Jayapal
+Gallagher,Mike,,,,Mike Gallagher,rep,WI,8,Republican,RepGallagher,8.15967E+17,RepMikeGallagher,,,Michael Gallagher (Wisconsin),,Mike Gallagher (American politician)
+Estes,Ron,,,,Ron Estes,rep,KS,4,Republican,RepRonEstes,8.54715E+17,RepRonEstes,,,Ron Estes (U.S. House representative),,Ron Estes
+Norman,Ralph,,,,Ralph Norman,rep,SC,5,Republican,RepRalphNorman,8.80481E+17,RepRalphNorman,,,Ralph Norman,,Ralph Norman
+Gomez,Jimmy,,,,Jimmy Gomez,rep,CA,34,Democrat,RepJimmyGomez,2371339658,RepJimmyGomez,,,Jimmy Gomez,,Jimmy Gomez
+Curtis,John,R.,,,John R. Curtis,rep,UT,3,Republican,RepJohnCurtis,9.31614E+17,RepJohnCurtis,,,John Curtis (Utah),,John Curtis (Utah politician)
+Smith,Tina,Flint,,,Tina Smith,sen,MN,,Democrat,SenTinaSmith,9.41001E+17,USSenTinaSmith,,,Tina Smith,,Tina Smith
+Hyde-Smith,Cindy,,,,Cindy Hyde-Smith,sen,MS,,Republican,SenHydeSmith,9.83348E+17,,,,Cindy Hyde-Smith,,Cindy Hyde-Smith
+Lesko,Debbie,,,,Debbie Lesko,rep,AZ,8,Republican,RepDLesko,9.96095E+17,RepDebbieLesko,,,Debbie Lesko,,Debbie Lesko
+Cloud,Michael,,,,Michael Cloud,rep,TX,27,Republican,RepCloudTX,1.03988E+18,,,,Michael Cloud (Texas),,Michael Cloud
+Balderson,Troy,,,,Troy Balderson,rep,OH,12,Republican,RepBalderson,1.03734E+18,,,,Troy Balderson,,Troy Balderson
+Hern,Kevin,R.,,,Kevin Hern,rep,OK,1,Republican,repkevinhern,1.06782E+18,,,,Kevin Hern,,Kevin Hern
+Morelle,Joseph,D.,,,Joseph D. Morelle,rep,NY,25,Democrat,RepJoeMorelle,1.0646E+18,,,,Joseph Morelle,,Joseph Morelle
+Scanlon,Mary,Gay,,,Mary Gay Scanlon,rep,PA,5,Democrat,RepMGS,1.06754E+18,,,,Mary Gay Scanlon,,Mary Gay Scanlon
+Wild,Susan,Ellis,,,Susan Wild,rep,PA,7,Democrat,RepSusanWild,1.06964E+18,,,,Susan Wild,,Susan Wild
+Case,Ed,,,,Ed Case,rep,HI,1,Democrat,RepEdCase,1.08135E+18,,,,Ed Case,,Ed Case
+Horsford,Steven,A.,,,Steven Horsford,rep,NV,4,Democrat,RepHorsford,389840566,,,,Steven Horsford,,Steven Horsford
+Stanton,Greg,,,,Greg Stanton,rep,AZ,4,Democrat,RepGregStanton,1.08089E+18,,,,Greg Stanton,,Greg Stanton
+Harder,Josh,,,,Josh Harder,rep,CA,9,Democrat,RepJoshHarder,1.08085E+18,,,,Josh Harder,,Josh Harder
+Porter,Katie,,,,Katie Porter,rep,CA,47,Democrat,RepKatiePorter,1.08122E+18,,,,Katie Porter,,Katie Porter
+Levin,Mike,,,,Mike Levin,rep,CA,49,Democrat,RepMikeLevin,1.07213E+18,,,,,,Mike Levin
+Neguse,Joe,,,,Joe Neguse,rep,CO,2,Democrat,RepJoeNeguse,1.07875E+18,,,,Joe Neguse,,Joe Neguse
+Crow,Jason,,,,Jason Crow,rep,CO,6,Democrat,RepJasonCrow,1.08019E+18,,,,Jason Crow,,Jason Crow
+Hayes,Jahana,,,,Jahana Hayes,rep,CT,5,Democrat,RepJahanaHayes,1.08209E+18,,,,Jahana Hayes,,Jahana Hayes
+Waltz,Michael,,,,Michael Waltz,rep,FL,6,Republican,RepWaltzPress,1.08242E+18,,,,Michael Waltz,,Michael Waltz
+Steube,W.,Gregory,,,W. Gregory Steube,rep,FL,17,Republican,RepGregSteube,1.08313E+18,,,,Greg Steube,,Greg Steube
+McBath,Lucy,,,,Lucy McBath,rep,GA,7,Democrat,RepLucyMcBath,1.08238E+18,,,,Lucy McBath,,Lucy McBath
+Fulcher,Russ,,,,Russ Fulcher,rep,ID,1,Republican,RepRussFulcher,1.07874E+18,,,,Russ Fulcher,,Russ Fulcher
+García,Jesús,G.,,Chuy,"Jesús G. ""Chuy"" García",rep,IL,4,Democrat,RepChuyGarcia,1.08243E+18,,,,Jesus Garcia,,Chuy García
+Casten,Sean,,,,Sean Casten,rep,IL,6,Democrat,RepCasten,1.08347E+18,,,@RepCasten@mastodon.social,Sean Casten,,Sean Casten
+Underwood,Lauren,,,,Lauren Underwood,rep,IL,14,Democrat,RepUnderwood,1.08054E+18,,,,,,Lauren Underwood
+Baird,James,R.,,,James R. Baird,rep,IN,4,Republican,RepJimBaird,1.08632E+18,,,,James Baird,,Jim Baird (politician)
+Pence,Greg,,,,Greg Pence,rep,IN,6,Republican,RepGregPence,1.08237E+18,,,,Greg Pence,,Greg Pence
+Davids,Sharice,,,,Sharice Davids,rep,KS,3,Democrat,RepDavids,1.08052E+18,,,,Sharice Davids,,Sharice Davids
+Trahan,Lori,,,,Lori Trahan,rep,MA,3,Democrat,RepLoriTrahan,1.0798E+18,,,@RepLoriTrahan@mastodon.social,Lori Trahan,,Lori Trahan
+Pressley,Ayanna,,,,Ayanna Pressley,rep,MA,7,Democrat,RepPressley,1.08058E+18,,,,Ayanna Pressley,,Ayanna Pressley
+Trone,David,J.,,,David J. Trone,rep,MD,6,Democrat,RepDavidTrone,1.08057E+18,,,,David Trone,,David Trone
+Slotkin,Elissa,,,,Elissa Slotkin,rep,MI,7,Democrat,RepSlotkin,1.0784E+18,,,,Elissa Slotkin,,Elissa Slotkin
+Stevens,Haley,M.,,,Haley M. Stevens,rep,MI,11,Democrat,RepHaleyStevens,1.07616E+18,,,,Haley Stevens,,Haley Stevens
+Tlaib,Rashida,,,,Rashida Tlaib,rep,MI,12,Democrat,RepRashida,1.07977E+18,,,,Rashida Tlaib,,Rashida Tlaib
+Craig,Angie,,,,Angie Craig,rep,MN,2,Democrat,RepAngieCraig,1.08022E+18,,,,Angie Craig,,Angie Craig
+Phillips,Dean,,,,Dean Phillips,rep,MN,3,Democrat,RepDeanPhillips,1.06131E+18,,,,Dean Phillips,,Dean Phillips
+Omar,Ilhan,,,,Ilhan Omar,rep,MN,5,Democrat,Ilhan,1.08233E+18,,,,Ilhan Omar,,Ilhan Omar
+Stauber,Pete,,,,Pete Stauber,rep,MN,8,Republican,RepPeteStauber,1.07583E+18,,,,Pete Stauber,,Pete Stauber
+Guest,Michael,,,,Michael Guest,rep,MS,3,Republican,RepMichaelGuest,1.08124E+18,,,,Michael Guest,,Michael Guest (politician)
+Armstrong,Kelly,,,,Kelly Armstrong,rep,ND,0,Republican,RepArmstrongND,1.08052E+18,,,,Kelly Armstrong,,Kelly Armstrong
+Pappas,Chris,,,,Chris Pappas,rep,NH,1,Democrat,RepChrisPappas,1.06775E+18,,,,Chris Pappas,,Chris Pappas (politician)
+Van Drew,Jefferson,,,,Jefferson Van Drew,rep,NJ,2,Republican,Congressman_JVD,1.46868E+18,,,,Jeff Van Drew,,Jeff Van Drew
+Kim,Andy,,,,Andy Kim,rep,NJ,3,Democrat,RepAndyKimNJ,1.07877E+18,,,,Andrew Kim (New Jersey),,Andy Kim (politician)
+Sherrill,Mikie,,,,Mikie Sherrill,rep,NJ,11,Democrat,RepSherrill,1.08057E+18,,,,Mikie Sherrill,,Mikie Sherrill
+Lee,Susie,,,,Susie Lee,rep,NV,3,Democrat,RepSusieLee,1.07906E+18,,,,Susie Lee,,Susie Lee
+Ocasio-Cortez,Alexandria,,,,Alexandria Ocasio-Cortez,rep,NY,14,Democrat,RepAOC,1.0791E+18,,,,Alexandria Ocasio-Cortez,,Alexandria Ocasio-Cortez
+Dean,Madeleine,,,,Madeleine Dean,rep,PA,4,Democrat,RepDean,567508925,,,,Madeleine Dean,,Madeleine Dean
+Houlahan,Chrissy,,,,Chrissy Houlahan,rep,PA,6,Democrat,RepHoulahan,1.0529E+18,,,,Chrissy Houlahan,,Chrissy Houlahan
+Meuser,Daniel,,,,Daniel Meuser,rep,PA,9,Republican,RepMeuser,1.08057E+18,,,,Dan Meuser,,Dan Meuser
+Joyce,John,,,,John Joyce,rep,PA,13,Republican,RepJohnJoyce,1.08231E+18,,,,John Joyce (Pennsylvania),,John Joyce (American politician)
+Reschenthaler,Guy,,,,Guy Reschenthaler,rep,PA,14,Republican,GReschenthaler,4205133682,,,,Guy Reschenthaler,,Guy Reschenthaler
+Timmons,William,R.,,,William R. Timmons IV,rep,SC,4,Republican,RepTimmons,1.07977E+18,,,,William Timmons,,William Timmons (politician)
+Johnson,Dusty,,,,Dusty Johnson,rep,SD,0,Republican,RepDustyJohnson,1.07478E+18,,,,Dusty Johnson,,Dusty Johnson
+Burchett,Tim,,,,Tim Burchett,rep,TN,2,Republican,RepTimBurchett,1.02885E+18,,,,Tim Burchett,,Tim Burchett
+Rose,John,W.,,,John W. Rose,rep,TN,6,Republican,RepJohnRose,1.08131E+18,,,,John Rose (Tennessee),,John Rose (Tennessee politician)
+Green,Mark,E.,,,Mark E. Green,rep,TN,7,Republican,RepMarkGreen,1.08048E+18,,,,Mark Green (Tennessee),,Mark Green (Tennessee politician)
+Crenshaw,Dan,,,,Dan Crenshaw,rep,TX,2,Republican,RepDanCrenshaw,1.08089E+18,,,,Daniel Crenshaw,,Dan Crenshaw
+Gooden,Lance,,,,Lance Gooden,rep,TX,5,Republican,,,,,,Lance Gooden,,Lance Gooden
+Fletcher,Lizzie,,,,Lizzie Fletcher,rep,TX,7,Democrat,RepFletcher,1.0759E+18,,,,Lizzie Pannill Fletcher,,Lizzie Fletcher
+Escobar,Veronica,,,,Veronica Escobar,rep,TX,16,Democrat,RepEscobar,1.07552E+18,,,,Veronica Escobar,,Veronica Escobar
+Roy,Chip,,,,Chip Roy,rep,TX,21,Republican,RepChipRoy,1.08279E+18,,,,Chip Roy,,Chip Roy
+Garcia,Sylvia,R.,,,Sylvia R. Garcia,rep,TX,29,Democrat,RepSylviaGarcia,1.08059E+18,,,,Sylvia Garcia,,Sylvia Garcia
+Allred,Colin,Z.,,,Colin Z. Allred,rep,TX,32,Democrat,RepColinAllred,1.07836E+18,,,,Colin Allred,,Colin Allred
+Cline,Ben,,,,Ben Cline,rep,VA,6,Republican,RepBenCline,1.07216E+18,,,,Ben Cline,,Ben Cline
+Spanberger,Abigail,Davis,,,Abigail Davis Spanberger,rep,VA,7,Democrat,RepSpanberger,1.07877E+18,,,,Abigail Spanberger,,Abigail Spanberger
+Wexton,Jennifer,,,,Jennifer Wexton,rep,VA,10,Democrat,RepWexton,1.01782E+18,,,,Jennifer Wexton,,Jennifer Wexton
+Schrier,Kim,,,,Kim Schrier,rep,WA,8,Democrat,RepKimSchrier,1.08046E+18,,,,Kim Schrier,,Kim Schrier
+Steil,Bryan,,,,Bryan Steil,rep,WI,1,Republican,RepBryanSteil,1.07521E+18,,,,Bryan Steil,,Bryan Steil
+Miller,Carol,D.,,,Carol D. Miller,rep,WV,1,Republican,RepCarolMiller,1.08132E+18,,,,Carol Miller (West Virginia),,Carol Miller (politician)
+Scott,Rick,,,,Rick Scott,sen,FL,,Republican,SenRickScott,131546062,RickScottSenOffice,,,Rick Scott,,Rick Scott
+Braun,Mike,,,,Mike Braun,sen,IN,,Republican,SenatorBraun,1.08087E+18,,,,Mike Braun,,Mike Braun
+Hawley,Joshua,,,Josh,Josh Hawley,sen,MO,,Republican,SenHawleyPress,1.08096E+18,,,,Josh Hawley,,Josh Hawley
+Romney,Mitt,,,,Mitt Romney,sen,UT,,Republican,SenatorRomney,1.07869E+18,,,,Mitt Romney,,Mitt Romney
+Golden,Jared,Forrest,,,Jared F. Golden,rep,ME,2,Democrat,RepGolden,1.08089E+18,,,,Jared Golden,,Jared Golden
+Bishop,Dan,,,,Dan Bishop,rep,NC,8,Republican,RepDanBishop,1.17652E+18,repdanbishop,,,Dan Bishop,,Dan Bishop
+Murphy,Gregory,Francis,,,Gregory F. Murphy,rep,NC,3,Republican,RepGregMurphy,1.17398E+18,RepGregMurphy,,,Gregory Murphy,,Greg Murphy (politician)
+Mfume,Kweisi,,,,Kweisi Mfume,rep,MD,7,Democrat,RepKweisiMfume,1.27621E+18,RepKweisiMfume,,,,,Kweisi Mfume
+Tiffany,Thomas,P.,,,Thomas P. Tiffany,rep,WI,7,Republican,RepTiffany,1.26784E+18,,,,Tom Tiffany,,Tom Tiffany
+Garcia,Mike,,,,Mike Garcia,rep,CA,27,Republican,RepMikeGarcia,1.26253E+18,RepMikeGarcia,,,Mike Garcia,,Mike Garcia (politician)
+Kelly,Mark,,,,Mark Kelly,sen,AZ,,Democrat,SenMarkKelly,1.32493E+18,SenMarkKelly,,,Mark Kelly,,Mark Kelly
+Lummis,Cynthia,M.,,,Cynthia M. Lummis,sen,WY,,Republican,SenLummis,22831059,,,,Cynthia Lummis,,Cynthia Lummis
+Issa,Darrell,E.,,,Darrell Issa,rep,CA,48,Republican,repdarrellissa,63650107,,,,Darrell Issa,,Darrell Issa
+Sessions,Pete,A.,,,Pete Sessions,rep,TX,17,Republican,PeteSessions,24735461,,,,Pete Sessions,,Pete Sessions
+Valadao,David,G.,,,David G. Valadao,rep,CA,22,Republican,RepDavidValadao,1128514404,,,,David G. Valadao,,David Valadao
+Tuberville,Tommy,Hawley,,,Tommy Tuberville,sen,AL,,Republican,SenTuberville,1.34574E+18,,,,Tommy Tuberville,,Tommy Tuberville
+Hickenlooper,John,Wright,,,John W. Hickenlooper,sen,CO,,Democrat,SenatorHick,1.31873E+18,,,,John Hickenlooper,,John Hickenlooper
+Hagerty,Bill,Francis,,,Bill Hagerty,sen,TN,,Republican,SenatorHagerty,1.34687E+18,,,,Bill Hagerty,,Bill Hagerty
+Carl,Jerry,Lee,Jr.,,Jerry L. Carl,rep,AL,1,Republican,RepJerryCarl,1.34109E+18,,,,,,Jerry Carl
+Moore,Barry,,,,Barry Moore,rep,AL,2,Republican,RepBarryMoore,1.33901E+18,,,,Barry Moore (Alabama),,Barry Moore (Alabama politician)
+Obernolte,Jay,Phillip,,,Jay Obernolte,rep,CA,23,Republican,JayObernolte,272482466,,,,Jay Obernolte,,Jay Obernolte
+Kim,Young,Oak,,,Young Kim,rep,CA,40,Republican,RepYoungKim,1.34468E+18,,,,,,Young Kim
+Steel,Michelle,Eunjoo,,,Michelle Steel,rep,CA,45,Republican,RepSteel,1.34374E+18,,,,,,Michelle Steel
+Jacobs,Sara,,,,Sara Jacobs,rep,CA,51,Democrat,RepSaraJacobs,1.3451E+18,,,,,,Sara Jacobs
+Boebert,Lauren,Opal,,,Lauren Boebert,rep,CO,3,Republican,RepBoebert,1.34299E+18,,,,Lauren Boebert,,Lauren Boebert
+Cammack,Katherine,,,Kat,Kat Cammack,rep,FL,3,Republican,RepKatCammack,1.34433E+18,,,,,,Kat Cammack
+Franklin,C.,Scott,,,C. Scott Franklin,rep,FL,18,Republican,RepFranklin,1.34366E+18,,,,,,Scott Franklin (politician)
+Donalds,Byron,Lowell,,,Byron Donalds,rep,FL,19,Republican,RepDonaldsPress,1.34397E+18,,,,,,Byron Donalds
+Gimenez,Carlos,A.,,,Carlos A. Gimenez,rep,FL,28,Republican,RepCarlos,1.34368E+18,,,,Carlos Gimenez,,Carlos A. Giménez
+Salazar,Maria,Elvira,,,Maria Elvira Salazar,rep,FL,27,Republican,RepMariaSalazar,1.32593E+18,,,,,,María Elvira Salazar
+Williams,Nikema,Natassha,,,Nikema Williams,rep,GA,5,Democrat,RepNikema,1.34546E+18,,,,Nikema Williams,,Nikema Williams
+Clyde,Andrew,S.,,,Andrew S. Clyde,rep,GA,9,Republican,Rep_Clyde,1.35702E+18,,,,,,Andrew Clyde
+Greene,Marjorie,Taylor,,,Marjorie Taylor Greene,rep,GA,14,Republican,RepMTG,1.34436E+18,,,,Marjorie Taylor Greene,,Marjorie Taylor Greene
+Hinson,Ashley,,,,Ashley Hinson,rep,IA,2,Republican,RepAshleyHinson,1.34078E+18,,,,Ashley Hinson,,Ashley Hinson
+Miller-Meeks,Mariannette,Jane,,,Mariannette Miller-Meeks,rep,IA,1,Republican,RepMMM,1.34581E+18,,,,Mariannette Miller-Meeks,,Mariannette Miller-Meeks
+Feenstra,Randy,L.,,,Randy Feenstra,rep,IA,4,Republican,RepFeenstra,1.34514E+18,,,,Randy Feenstra,,Randy Feenstra
+Miller,Mary,E.,,,Mary E. Miller,rep,IL,15,Republican,RepMaryMiller,1.34366E+18,,,,,,Mary Miller (politician)
+Mrvan,Frank,John,,,Frank J. Mrvan,rep,IN,1,Democrat,RepMrvan,1.34621E+18,,,,,,Frank J. Mrvan
+Spartz,Victoria,,,,Victoria Spartz,rep,IN,5,Republican,RepSpartz,1.34485E+18,,,,,,Victoria Spartz
+Mann,Tracey,Robert,,,Tracey Mann,rep,KS,1,Republican,RepMann,1.34583E+18,,,,,,Tracey Mann
+LaTurner,Jacob,,,Jake,Jake LaTurner,rep,KS,2,Republican,RepLaTurner,1.34585E+18,,,,,,Jake LaTurner
+Auchincloss,Jake,Daniel,,,Jake Auchincloss,rep,MA,4,Democrat,RepAuchincloss,1.33028E+18,,,,,,Jake Auchincloss
+McClain,Lisa,C.,,,Lisa C. McClain,rep,MI,9,Republican,RepLisaMcClain,1.34403E+18,,,,Lisa McClain,,Lisa McClain
+Fischbach,Michelle,Louise Helene,,,Michelle Fischbach,rep,MN,7,Republican,RepFischbach,1.34438E+18,,,,Michelle Fischbach,,Michelle Fischbach
+Bush,Cori,,,,Cori Bush,rep,MO,1,Democrat,RepCori,1.00263E+18,,,,Cori Bush,,Cori Bush
+Rosendale,Matthew,Martin,Sr.,,"Matthew M. Rosendale, Sr.",rep,MT,2,Republican,RepRosendale,1.34475E+18,,,,Matthew Rosendale,,Matt Rosendale
+Ross,Deborah,Koff,,,Deborah K. Ross,rep,NC,2,Democrat,RepDeborahRoss,1.34868E+18,,,,Deborah Ross,,Deborah Ross (politician)
+Manning,Kathy,Ellen,,,Kathy E. Manning,rep,NC,6,Democrat,RepKManning,1.33712E+18,,,,,,Kathy Manning
+Leger Fernandez,Teresa,,,,Teresa Leger Fernandez,rep,NM,3,Democrat,RepTeresaLF,1.34515E+18,,,@RepTeresaLF@mastodon.social,,,Teresa Leger Fernandez
+Garbarino,Andrew,R.,,,Andrew R. Garbarino,rep,NY,2,Republican,RepGarbarino,1.34435E+18,,,,,,Andrew Garbarino
+Malliotakis,Nicole,,,,Nicole Malliotakis,rep,NY,11,Republican,RepMalliotakis,1.34475E+18,,,,,,Nicole Malliotakis
+Torres,Ritchie,John,,,Ritchie Torres,rep,NY,15,Democrat,RepRitchie,1.2764E+18,,,,Ritchie Torres,,Ritchie Torres
+Bowman,Jamaal,,,,Jamaal Bowman,rep,NY,16,Democrat,RepBowman,1.34439E+18,,,@repbowman@mastodon.social,Jamaal Bowman,,Jamaal Bowman
+Bice,Stephanie,I.,,,Stephanie I. Bice,rep,OK,5,Republican,RepBice,1.34426E+18,,,,Stephanie Bice,,Stephanie Bice
+Bentz,Cliff,Stewart,,,Cliff Bentz,rep,OR,2,Republican,RepBentz,1.34579E+18,,,,,,Cliff Bentz
+Mace,Nancy,Ruth,,,Nancy Mace,rep,SC,1,Republican,RepNancyMace,1.3436E+18,,,,Nancy Mace,,Nancy Mace
+Harshbarger,Diana,,,,Diana Harshbarger,rep,TN,1,Republican,RepHarshbarger,1.34579E+18,,,,,,Diana Harshbarger
+Fallon,Patrick,Edward,,Pat,Pat Fallon,rep,TX,4,Republican,RepPatFallon,1.34326E+18,,,,,,Pat Fallon
+Pfluger,August,Lee,II,,August Pfluger,rep,TX,11,Republican,RepPfluger,1.34112E+18,,,,,,August Pfluger
+Jackson,Ronny,Lynn,,,Ronny Jackson,rep,TX,13,Republican,RepRonnyJackson,1.3419E+18,,,,Ronny Jackson,,Ronny Jackson
+Nehls,Troy,E.,,,Troy E. Nehls,rep,TX,22,Republican,RepTroyNehls,1.34732E+18,,,,Troy Nehls,,Troy Nehls
+Gonzales,Ernest,Anthony,,Tony,Tony Gonzales,rep,TX,23,Republican,RepTonyGonzales,1.34363E+18,,,,,,Tony Gonzales
+Van Duyne,Beth,Ann,,,Beth Van Duyne,rep,TX,24,Republican,RepBethVanDuyne,1.33963E+18,,,,Beth Van Duyne,,Beth Van Duyne
+Moore,Blake,David,,,Blake D. Moore,rep,UT,1,Republican,RepBlakeMoore,1.33745E+18,,,,,,Blake Moore
+Owens,Clarence,,,Burgess,Burgess Owens,rep,UT,4,Republican,RepBurgessOwens,1.34448E+18,,,,Burgess Owens,,Burgess Owens
+Good,Robert,G.,,Bob,Bob Good,rep,VA,5,Republican,RepBobGood,1.34554E+18,,,,,,Bob Good
+Strickland,Marilyn,,,,Marilyn Strickland,rep,WA,10,Democrat,RepStricklandWA,1.34365E+18,,,,,,Marilyn Strickland
+Fitzgerald,Scott,L.,,,Scott Fitzgerald,rep,WI,5,Republican,RepFitzgerald,1004891731,,,,,,Scott Fitzgerald (politician)
+Padilla,Alejandro,,,Alex,Alex Padilla,sen,CA,,Democrat,SenAlexPadilla,1.35124E+18,,,,Alex Padilla,,Alex Padilla
+Ossoff,Jon,,,,Jon Ossoff,sen,GA,,Democrat,SenOssoff,1.35671E+18,,,,Jon Ossoff,,Jon Ossoff
+Warnock,Raphael,Gamaliel,,,Raphael G. Warnock,sen,GA,,Democrat,SenatorWarnock,1.35229E+18,,,,Raphael Warnock,,Raphael Warnock
+Tenney,Claudia,,,,Claudia Tenney,rep,NY,24,Republican,RepTenney,7.97201E+17,,,,Claudia Tenney,,Claudia Tenney
+Letlow,Julia,,,,Julia Letlow,rep,LA,5,Republican,RepJuliaLetlow,1.3824E+18,,,,Julia Letlow,,Julia Letlow
+Carter,Troy,Anthony,,,Troy A. Carter,rep,LA,2,Democrat,RepTroyCarter,1.35276E+18,,,,Troy Carter,,Troy Carter (politician)
+Stansbury,Melanie,Ann,,,Melanie A. Stansbury,rep,NM,1,Democrat,Rep_Stansbury,1.40452E+18,,,,Melanie Ann Stansbury,,Melanie Stansbury
+Ellzey,Jake,,,,Jake Ellzey,rep,TX,6,Republican,RepEllzey,1.36652E+18,,,,Jake Ellzey,,Jake Ellzey
+Brown,Shontel,M.,,,Shontel M. Brown,rep,OH,11,Democrat,RepShontelBrown,1.45638E+18,,,@RepShontelBrown@mastodon.social,,,Shontel Brown
+Carey,Mike,,,,Mike Carey,rep,OH,15,Republican,RepMikeCarey,1.45775E+18,,,,,,Mike Carey (politician)
+Cherfilus-McCormick,Sheila,,,,Sheila Cherfilus-McCormick,rep,FL,20,Democrat,,,,,,,,Sheila Cherfilus-McCormick
+Flood,Mike,,,,Mike Flood,rep,NE,1,Republican,,,,,,Mike Flood,,Mike Flood (politician)
+Finstad,Brad,,,,Brad Finstad,rep,MN,1,Republican,,,,,,Brad Finstad,,Brad Finstad
+Peltola,Mary,Sattler,,,Mary Sattler Peltola,rep,AK,0,Democrat,,,,,,Mary Peltola,,Mary Peltola
+Ryan,Patrick,,,,Patrick Ryan,rep,NY,18,Democrat,RepPatRyanNY,1.5694E+18,,,,Pat Ryan (New York),,Pat Ryan (politician)
+Yakym,Rudy,,,,Rudy Yakym III,rep,IN,2,Republican,RepRudyYakym,1.60567E+18,,,,Rudy Yakym,,Rudy Yakym
+Zinke,Ryan,,,,Ryan K. Zinke,rep,MT,1,Republican,,,,,,,,Ryan Zinke
+Britt,Katie,Elizabeth,,,Katie Boyd Britt,sen,AL,,Republican,,,,,,Katie Britt,,Katie Britt
+Schmitt,Eric,Stephen,,,Eric Schmitt,sen,MO,,Republican,,,,,,Eric Schmitt,,Eric Schmitt
+Vance,J.D. (James),(David),,,J.D. Vance,sen,OH,,Republican,,,,,,J.D. Vance,,J. D. Vance
+Fetterman,John,Karl,,,John Fetterman,sen,PA,,Democrat,,,,,,John Fetterman,,John Fetterman
+Strong,Dale,,,,Dale W. Strong,rep,AL,5,Republican,,,,,,,,Dale Strong
+Crane,Eli,,,,Elijah Crane,rep,AZ,2,Republican,RepEliCrane,1.60889E+18,,,,Eli Crane,,Eli Crane
+Ciscomani,Juan,Guadaloupe,,,Juan Ciscomani,rep,AZ,6,Republican,RepCiscomani,1.60353E+18,,,,,,Juan Ciscomani
+Kiley,Kevin,Patrick,,,Kevin Kiley,rep,CA,3,Republican,RepKiley,1.61036E+18,,,,Kevin Kiley,,Kevin Kiley (politician)
+Duarte,John,,,,John S. Duarte,rep,CA,13,Republican,,,,,,,,John Duarte (politician)
+Mullin,Kevin,,,,Kevin Mullin,rep,CA,15,Democrat,RepKevinMullin,1.61041E+18,,,,,,Kevin Mullin
+Kamlager-Dove,Sydney,Kai,,,Sydney Kamlager-Dove,rep,CA,37,Democrat,,,,,,Sydney Kamlager-Dove,,Sydney Kamlager-Dove
+Garcia,Robert,Julio,,,Robert Garcia,rep,CA,42,Democrat,RepRobertGarcia,1.60279E+18,,,,,,Robert Garcia (California politician)
+Pettersen,Brittany,Louise,,,Brittany Pettersen,rep,CO,7,Democrat,,,,,,,,Brittany Pettersen
+Caraveo,Yadira,D.,,,Yadira Caraveo,rep,CO,8,Democrat,RepCaraveoMD,1.6103E+18,,,,Yadira Caraveo,,Yadira Caraveo
+Bean,Aaron,Paul,,,Aaron Bean,rep,FL,4,Republican,RepAaronBean,1.60493E+18,,,,,,Aaron Bean
+Mills,Cory,,,,Cory Mills,rep,FL,7,Republican,,,,,,,,Cory Mills
+Frost,Maxwell,Alejandro,,,Maxwell Frost,rep,FL,10,Democrat,RepMaxwellFrost,1.60849E+18,,,,,,Maxwell Frost
+Paulina Luna,Anna,(Paulina),,,Anna Paulina Luna,rep,FL,13,Republican,RepLuna,1.61023E+18,,,,Anna Paulina Luna,,Anna Paulina Luna
+Lee,Laurel,Frances,,,Laurel M. Lee,rep,FL,15,Republican,RepLaurelLee,1.60823E+18,,,,,,Laurel Lee
+Moskowitz,Jared,Evan,,,Jared Moskowitz,rep,FL,23,Democrat,RepMoskowitz,1.61001E+18,,,,,,Jared Moskowitz
+McCormick,Rich,Dean,,,Richard McCormick,rep,GA,6,Republican,RepMcCormick,1.61069E+18,,,,,,Rich McCormick
+Collins,Mike,Allen,Jr.,,Mike Collins,rep,GA,10,Republican,RepMikeCollins,1.60103E+18,,,,,,Mike Collins (politician)
+Moylan,James (Jim),Camacho,,,James C. Moylan,rep,GU,0,Republican,,,,,,James Moylan,,James Moylan
+Tokuda,Jill,Naomi,,,Jill N. Tokuda,rep,HI,2,Democrat,RepJillTokuda,1.61073E+18,,,,,,Jill Tokuda
+Nunn,Zachary (Zach),Martin,,,Zachary Nunn,rep,IA,3,Republican,ZachNunn,1.61032E+18,,,,Zach Nunn,,Zach Nunn
+Jackson,Jonathan,Luther,,,Jonathan L. Jackson,rep,IL,1,Democrat,,,,,,,,Jonathan Jackson (Illinois politician)
+Ramirez,Delia,Catalina,,,Delia C. Ramirez,rep,IL,3,Democrat,,,,,,,,Delia Ramirez
+Budzinski,Nicole (Nikki),Jai,,,Nikki Budzinski,rep,IL,13,Democrat,RepNikkiB,1.60348E+18,,,,,,Nikki Budzinski
+Sorensen,Eric,,,,Eric Sorensen,rep,IL,17,Democrat,RepEricSorensen,1.61144E+18,,,,,,Eric Sorensen (politician)
+Houchin,Erin,Suzanne,,,Erin Houchin,rep,IN,9,Republican,RepHouchin,1.60369E+18,,,,,,Erin Houchin
+McGarvey,Morgan,,,,Morgan McGarvey,rep,KY,3,Democrat,RepMcGarvey,1.6103E+18,,,,,,Morgan McGarvey
+Ivey,Glenn,Frederick,,,Glenn Ivey,rep,MD,4,Democrat,RepGlennIvey,1.61011E+18,,,,,,Glenn Ivey
+Scholten,Hillary,Jeanne,,,Hillary J. Scholten,rep,MI,3,Democrat,,,,,,,,Hillary Scholten
+James,John,Edwards,,,John James,rep,MI,10,Republican,,,,,,John James (Michigan),,John James (Michigan politician)
+Thanedar,Shri,,,,Shri Thanedar,rep,MI,13,Democrat,RepShriThanedar,1.61072E+18,,,,Shri Thanedar,,Shri Thanedar
+Alford,Mark,Allen,,,Mark Alford,rep,MO,4,Republican,,,,,,,,Mark Alford (politician)
+Burlison,Eric,Wayne,,,Eric Burlison,rep,MO,7,Republican,RepEricBurlison,1.60634E+18,,,,Eric Burlison,,Eric Burlison
+Ezell,Mike,,,,Mike Ezell,rep,MS,4,Republican,RepEzell,1.60279E+18,,,,,,Mike Ezell
+Davis,Donald,Gene,,,Donald G. Davis,rep,NC,1,Democrat,,,,,,,,Don Davis (North Carolina politician)
+Foushee,Valerie,Jean,,,Valerie P. Foushee,rep,NC,4,Democrat,ValerieFoushee,1.61147E+18,,,,,,Valerie Foushee
+Edwards,Charles (Chuck),Marion,,,Chuck Edwards,rep,NC,11,Republican,RepEdwards,1.60275E+18,,,,,,Chuck Edwards
+Nickel,Wiley,,III,,Wiley Nickel,rep,NC,13,Democrat,,,,,,,,Wiley Nickel
+Jackson,Jeffrey,Neale,,,Jeff Jackson,rep,NC,14,Democrat,,,,,,,,Jeff Jackson (politician)
+Kean,Thomas,Howard,Jr.,,"Thomas H. Kean, Jr.",rep,NJ,7,Republican,CongressmanKean,1.60742E+18,,,,Thomas Kean Jr.,,Thomas Kean Jr.
+Menendez,Robert,Jacobsen,Jr.,,Robert Menendez,rep,NJ,8,Democrat,RepMenendez,1.60347E+18,,,,,,Rob Menendez
+Vasquez,Gabriel (Gabe),,,,Gabe Vasquez,rep,NM,2,Democrat,,,,,,,,Gabe Vasquez
+LaLota,Nicolas,Joseph,,,Nick LaLota,rep,NY,1,Republican,RepLaLota,1.58858E+18,,,,,,Nick LaLota
+Santos,George,Anthony Devolder,,,George Santos,rep,NY,3,Republican,,,,,,George Devolder-Santos,,George Santos
+D'Esposito,Anthony,P.,,,Anthony D’Esposito,rep,NY,4,Republican,RepDesposito,1.60822E+18,,,,Anthony D'Esposito,,Anthony D'Esposito
+Goldman,Dan,Sachs,,,Daniel S. Goldman,rep,NY,10,Democrat,RepDanGoldman,1.61002E+18,,,,,,Dan Goldman (politician)
+Lawler,Michael,Vincent,,,Michael Lawler,rep,NY,17,Republican,RepMikeLawler,1.59037E+18,,,,,,Mike Lawler
+Molinaro,Marcus,J.,,,Marcus J. Molinaro,rep,NY,19,Republican,RepMolinaroNY19,1.60342E+18,,,,Marcus Molinaro,,Marc Molinaro
+Williams,Brandon,McDonald,,,Brandon Williams,rep,NY,22,Republican,,,,,,,,Brandon Williams (politician)
+Langworthy,Nicholas,A.,,,Nicholas A. Langworthy,rep,NY,23,Republican,,,,,,,,Nick Langworthy
+Landsman,Greg,John,,,Greg Landsman,rep,OH,1,Democrat,,,,,,,,Greg Landsman
+Miller,Max,Leonard,,,Max L. Miller,rep,OH,7,Republican,,,,,,,,Max Miller (politician)
+Sykes,Emilia,Strong,,,Emilia Strong Sykes,rep,OH,13,Democrat,RepEmiliaSykes,1.61153E+18,,,,,,Emilia Sykes
+Brecheen,Josh,Chad,,,Josh Brecheen,rep,OK,2,Republican,,,,,,,,Josh Brecheen
+Hoyle,Valerie,Anne,,,Val T. Hoyle,rep,OR,4,Democrat,repvalhoyle,1.61287E+18,,,,Val Hoyle,,Val Hoyle
+Chavez-DeRemer,Lori,Michelle,,,Lori Chavez-DeRemer,rep,OR,5,Republican,RepLCD,1.58353E+18,,,,,,Lori Chavez-DeRemer
+Salinas,Andrea,Rose,,,Andrea Salinas,rep,OR,6,Democrat,,,,,,,,Andrea Salinas
+Lee,Summer,Lynn,,,Summer L. Lee,rep,PA,12,Democrat,,,,,,Summer Lee,,Summer Lee
+Deluzio,Chris,Raphael,,,Christopher R. Deluzio,rep,PA,17,Democrat,RepDeluzio,1.60893E+18,,,,,,Chris Deluzio
+Magaziner,Seth,Michael,,,Seth Magaziner,rep,RI,2,Democrat,,,,,,,,Seth Magaziner
+Fry,Russell,William,,,Russell Fry,rep,SC,7,Republican,RepRussellFry,1.60351E+18,,,,,,Russell Fry (politician)
+Ogles,Andrew,,IV,,Andrew Ogles,rep,TN,5,Republican,,,,,,Andy Ogles,,Andy Ogles
+Moran,Nathaniel,Quentin,,,Nathaniel Moran,rep,TX,1,Republican,,,,,,Nathaniel Moran,,Nathaniel Moran
+Self,Keith,Alan,,,Keith Self,rep,TX,3,Republican,,,,,,Keith Self,,Keith Self
+Luttrell,Morgan,Joe,,,Morgan Luttrell,rep,TX,8,Republican,RepLuttrell,1.60303E+18,,,,,,Morgan Luttrell
+De La Cruz,Mónica,,,,Monica De La Cruz,rep,TX,15,Republican,,,,,,,,Monica De La Cruz
+Crockett,Jasmine,Felicia,,,Jasmine Crockett,rep,TX,30,Democrat,RepJasmine,1.60997E+18,,,,,,Jasmine Crockett
+Casar,Gregorio,Eduardo,,,Greg Casar,rep,TX,35,Democrat,RepCasar,1.49951E+18,,,,,,Greg Casar
+Hunt,Wesley,Parish,,,Wesley Hunt,rep,TX,38,Republican,RepWesleyHunt,1.60275E+18,,,,Wesley Hunt (Texas Congress),,Wesley Hunt
+Kiggans,Jennifer,Ann,,,Jennifer Kiggans,rep,VA,2,Republican,,,,,,,,Jen Kiggans
+Balint,Becca,A.,,,Becca Balint,rep,VT,0,Democrat,RepBeccaB,1.60612E+18,,,,,,Becca Balint
+Gluesenkamp Perez,Marie,,,,Marie Gluesenkamp Perez,rep,WA,3,Democrat,RepMGP,1.60313E+18,,,,Marie Gluesenkamp Perez,,Marie Gluesenkamp Perez
+Van Orden,Derrick,Francis,,,Derrick Van Orden,rep,WI,3,Republican,RepVanOrden,1.59878E+18,,,,Derrick Van Orden,,Derrick Van Orden
+Hageman,Harriet,Maxine,,,Harriet M. Hageman,rep,WY,0,Republican,,,,,,Harriet Hageman,,Harriet Hageman
+Ricketts,Pete,,,,Pete Ricketts,sen,NE,,Republican,,,,,,Pete Ricketts,,Pete Ricketts
+McClellan,Jennifer,,,,Jennifer L. McClellan,rep,VA,4,Democrat,,,,,,Jennifer McClellan,,Jennifer McClellan

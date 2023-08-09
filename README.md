@@ -41,6 +41,9 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+## Dataset
+https://github.com/alexlitel/congresstweets
+
 ## Acknowledgments
 - This project utilizes the NLTK and SpaCy libraries for natural language processing tasks.
 - Thanks to the Twitter API for providing access to tweet data.

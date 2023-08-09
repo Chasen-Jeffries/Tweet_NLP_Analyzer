@@ -24,10 +24,10 @@ nltk.download('wordnet')
 nltk.download('vader_lexicon')
 
 # Set up authentication with Twitter API
-consumer_key = 'WCe4N89fgFl8uDmBYb4Ganw73'
-consumer_secret = 'k9gDvCCBxUOLwQeR7KIh18MiKCFR49MNxpkzKSwL7OTuAKCPrU'
-access_token = '1677130067061907457-qmE22Sjtk5DZKXOCwKioT3mP0PNmsX'
-access_token_secret = 'X0kXTArSMOr7UXTDd1QHQTQYI6CghvTOeZl9Jd0r5mtLM'
+consumer_key = '6DCuYj5BO1ESHjFY9nvoRtfEL'
+consumer_secret = 'vqrG7WeXwPXJYELvjasgfeSMfTJHI0bzJWKPVy3rugriwXxeUM'
+access_token = '1677130067061907457-MlHy8ZbTYms3BHYrITCVl4ZqV144UA'
+access_token_secret = 'XoNGQmh6IXgguvFFJxzSsf0V09AeWh1zOfq12TM3h8F7W'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
@@ -37,11 +37,14 @@ api = tweepy.API(auth)
 
 def Get_Tweets(): 
     # List of Twitter account usernames
-    account_list = ['POTUS','JoeBiden']
+    account_list = ['veritasium']
+
+    limit = 10
 
     # Dictionary to store tweets for each account
     tweets_dict = {}
     
+    # Get tweets at every 24 hrs at a give time, 12pm 
     # Calculate the start and end time for the 24-hour window
     end_time = datetime.now().replace(hour=12, minute=0, second=0, microsecond=0)
     start_time = end_time - timedelta(days=1)
@@ -52,7 +55,7 @@ def Get_Tweets():
 
     for username in account_list:
         # Collect tweets for the given user
-        tweets = tweepy.Cursor(api.user_timeline, screen_name=username, tweet_mode='extended', since=start_time_str, until=end_time_str).items()
+        tweets = tweepy.Cursor(api.user_timeline, screen_name=username, count=limit, tweet_mode='extended', since=start_time_str, until=end_time_str).items()
 
         # Add tweets to the account's list
         tweets_dict[username] = [tweet.full_text for tweet in tweets]
@@ -63,81 +66,82 @@ Tweets = Get_Tweets()
 # Define the filename for the aggregated file
 tweets_dict = Tweets
 
-# Create a new dictionary to store aggregated tweets and statistics
-aggregated_tweets_dict = {}
+def Clean_Tweets(tweets_dict):
+    # Create a new dictionary to store aggregated tweets and statistics
+    aggregated_tweets_dict = {}
 
-# Construct the NLP pipeline
-stop_words = set(stopwords.words('english'))
-stop_words.update(['|', '&', '!', '@', '#', '$', '%', '*', '(', ')', '-', '_', "'", ";", ":", ".", ",", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"])
-porter_stemmer = PorterStemmer()
-word_net_lemmatizer = WordNetLemmatizer()
+    # Construct the NLP pipeline
+    stop_words = set(stopwords.words('english'))
+    stop_words.update(['|', '&', '!', '@', '#', '$', '%', '*', '(', ')', '-', '_', "'", ";", ":", ".", ",", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"])
+    porter_stemmer = PorterStemmer()
+    word_net_lemmatizer = WordNetLemmatizer()
 
-# Load the English language model for SpaCy
-nlp = spacy.load('en_core_web_sm')
+    # Load the English language model for SpaCy
+    nlp = spacy.load('en_core_web_sm')
 
-# Initialize the SentimentIntentsityAnalyzer
-analyzer = SentimentIntensityAnalyzer()
+    # Initialize the SentimentIntentsityAnalyzer
+    analyzer = SentimentIntensityAnalyzer()
 
-# Iterate over the tweets_dict and create the aggregated version
-for username, tweets in tweets_dict.items():
-    # Concatenate all tweets into a document. 
-    aggregated_tweets = '\n\n'.join(tweets)
-    
-    # Calculate statistics for the aggregated tweets
-    num_tweets = len(tweets)
-    num_chars = sum(len(tweet) for tweet in tweets)
-    num_words = sum(len(tweet.split()) for tweet in tweets)
-    num_sents = sum(len(tweet.split('.')) for tweet in tweets)
-    unique_words = set(word.lower() for tweet in tweets for word in tweet.split())        
-    num_vocab = len(unique_words)
+    # Iterate over the tweets_dict and create the aggregated version
+    for username, tweets in tweets_dict.items():
+        # Concatenate all tweets into a document. 
+        aggregated_tweets = '\n\n'.join(tweets)
+        
+        # Calculate statistics for the aggregated tweets
+        num_tweets = len(tweets)
+        num_chars = sum(len(tweet) for tweet in tweets)
+        num_words = sum(len(tweet.split()) for tweet in tweets)
+        num_sents = sum(len(tweet.split('.')) for tweet in tweets)
+        unique_words = set(word.lower() for tweet in tweets for word in tweet.split())        
+        num_vocab = len(unique_words)
 
-    # Clean the text using the NLP pipeline
-    cleaned_text = [
-        word_net_lemmatizer.lemmatize(porter_stemmer.stem(word.lower()))
-        for word in nltk.word_tokenize(aggregated_tweets)
-        if word.lower() not in stop_words
-    ]
+        # Clean the text using the NLP pipeline
+        cleaned_text = [
+            word_net_lemmatizer.lemmatize(porter_stemmer.stem(word.lower()))
+            for word in nltk.word_tokenize(aggregated_tweets)
+            if word.lower() not in stop_words
+        ]
 
-    # Perform Named Entity Recognition (NER)
-    doc = nlp(' '.join(cleaned_text))
-    ner_tags = [(ent.text, ent.label_) for ent in doc.ents]
+        # Perform Named Entity Recognition (NER)
+        doc = nlp(' '.join(cleaned_text))
+        ner_tags = [(ent.text, ent.label_) for ent in doc.ents]
 
-    # Count the occurrences of each NER tag
-    ner_tag_counts = Counter(ner_tags)
+        # Count the occurrences of each NER tag
+        ner_tag_counts = Counter(ner_tags)
 
-    # Extract the raw count of each mentioned entity
-    ner_entities = [ent.text for ent in doc.ents]
+        # Extract the raw count of each mentioned entity
+        ner_entities = [ent.text for ent in doc.ents]
 
-    # Count the occurrences of each mentioned entity
-    ner_entity_counts = Counter(ner_entities)
+        # Count the occurrences of each mentioned entity
+        ner_entity_counts = Counter(ner_entities)
 
-    # Perform sentiment analysis for each entity
-    entity_sentiment = {}
-    for entity, count in ner_entity_counts.items():
-        entity_sentiment_scores = []
-        for tweet in tweets:
-            sentiment_scores = analyzer.polarity_scores(tweet)
-            entity_sentiment_scores.append(sentiment_scores['compound'])
-        entity_sum_sentiment = sum(entity_sentiment_scores)
-        entity_avg_sentiment = entity_sum_sentiment / len(entity_sentiment_scores)
-        entity_sentiment[entity] = {
-            'Count': count,
-            'Sum Sentiment': entity_sum_sentiment,
-            'Average Sentiment': entity_avg_sentiment
+        # Perform sentiment analysis for each entity
+        entity_sentiment = {}
+        for entity, count in ner_entity_counts.items():
+            entity_sentiment_scores = []
+            for tweet in tweets:
+                sentiment_scores = analyzer.polarity_scores(tweet)
+                entity_sentiment_scores.append(sentiment_scores['compound'])
+            entity_sum_sentiment = sum(entity_sentiment_scores)
+            entity_avg_sentiment = entity_sum_sentiment / len(entity_sentiment_scores)
+            entity_sentiment[entity] = {
+                'Count': count,
+                'Sum Sentiment': entity_sum_sentiment,
+                'Average Sentiment': entity_avg_sentiment
+            }
+
+        # Create a new dictionary entry for the current user
+        aggregated_tweets_dict[username] = {
+            'Tweets_Doc': cleaned_text,
+            'Num_Tweets': num_tweets,
+            'Character_Count': num_chars,
+            'Word_Count': num_words,
+            'Sent_Count': num_sents,
+            'Vocab__Count': num_vocab,
+            'NER_Tag_Counts': ner_tag_counts,
+            'NER_Entity_Counts': ner_entity_counts,
+            'NER_Entity_Sentiments': entity_sentiment
         }
-
-    # Create a new dictionary entry for the current user
-    aggregated_tweets_dict[username] = {
-        'Tweets_Doc': cleaned_text,
-        'Num_Tweets': num_tweets,
-        'Character_Count': num_chars,
-        'Word_Count': num_words,
-        'Sent_Count': num_sents,
-        'Vocab__Count': num_vocab,
-        'NER_Tag_Counts': ner_tag_counts,
-        'NER_Entity_Counts': ner_entity_counts,
-        'NER_Entity_Sentiments': entity_sentiment
-    }
 
 
 # Most least tweets. Who tweets the most and least. 
@@ -326,20 +330,20 @@ def tweet_NER_sentiment_20_MC_Entity(api, most_tweets_about_entities, sentiment_
 
 
 # Call the Most_Least_NER function to get the users with the most and least tweets about each entity
-most_tweets_about_entities, least_tweets_about_entities, sentiment_info = Most_Least_NER(aggregated_tweets_dict)
+# most_tweets_about_entities, least_tweets_about_entities, sentiment_info = Most_Least_NER(aggregated_tweets_dict)
 
 # Call the Most_Least_NER function to get the most and least mentioned entities
-most_tweets_about_entities, least_tweets_about_entities, sentiment_info = Most_Least_NER(aggregated_tweets_dict)
+# most_tweets_about_entities, least_tweets_about_entities, sentiment_info = Most_Least_NER(aggregated_tweets_dict)
 
 # Call the tweet_most_least_tweeters function
-tweet_most_least_tweeters(api, aggregated_tweets_dict)
+# tweet_most_least_tweeters(api, aggregated_tweets_dict)
 
 # Call the tweet_most_least_CWSV function
-tweet_most_least_CWSV(api, aggregated_tweets_dict)
+# tweet_most_least_CWSV(api, aggregated_tweets_dict)
 
 # Call the tweet_information function
-tweet_NER_sentiment_20_MC_Entity(api, most_tweets_about_entities, sentiment_info)
+# tweet_NER_sentiment_20_MC_Entity(api, most_tweets_about_entities, sentiment_info)
 
 # Call the tweet the most mentioned entitites
-tweet_most_mentioned_entities(api, most_tweets_about_entities)
+# tweet_most_mentioned_entities(api, most_tweets_about_entities)
 

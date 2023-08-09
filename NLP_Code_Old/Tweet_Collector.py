@@ -2,10 +2,12 @@ import tweepy
 
 def Get_Tweets():
     # Twitter API credentials
-    consumer_key = 'YOUR_CONSUMER_KEY'
-    consumer_secret = 'YOUR_CONSUMER_SECRET'
-    access_token = 'YOUR_ACCESS_TOKEN'
-    access_token_secret = 'YOUR_ACCESS_TOKEN_SECRET'
+    # Set up authentication with Twitter API
+    consumer_key = '6DCuYj5BO1ESHjFY9nvoRtfEL'
+    consumer_secret = 'vqrG7WeXwPXJYELvjasgfeSMfTJHI0bzJWKPVy3rugriwXxeUM'
+    access_token = '1677130067061907457-MlHy8ZbTYms3BHYrITCVl4ZqV144UA'
+    access_token_secret = 'XoNGQmh6IXgguvFFJxzSsf0V09AeWh1zOfq12TM3h8F7W'
+    bearer_token = 'AAAAAAAAAAAAAAAAAAAAAB2dogEAAAAA391DpZUlmV6CkYM9by56DwANIso%3DwPsZygUn7YPABW6b7XEr0kxqPmziDj8nrFeNcr9NEjBLxTUbhF'
 
     # Authenticate with Twitter API
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
