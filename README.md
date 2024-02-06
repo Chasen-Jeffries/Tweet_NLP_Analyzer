@@ -16,12 +16,9 @@ The project includes the following features:
 ## Usage
 To use this project, follow these steps:
 1. Set up the required dependencies by running pip install -r requirements.txt.
-2. Configure the Twitter API credentials in the config.py file.
-3. Run the main script, main.py, to start the analysis. This script will collect tweets, perform NLP tasks, calculate statistics, and generate insights.
+2. Load in the dataset from [alexlitel-congresstweets](https://github.com/alexlitel/congresstweets)
+3. Run the main script to start the analysis. This script will collect tweets, perform NLP tasks, calculate statistics, and generate insights.
 4. The generated insights and analysis results can be viewed through the console output. The most active tweeters, CWSV information, and sentiment towards common entities will be displayed.
-5. To tweet out the analysis results, make sure to configure the Twitter API credentials in the config.py file.
-6. Run the tweet functions (tweet_most_least_tweeters, tweet_most_least_CWSV, tweet_most_mentioned_entities) in the main.py script or customize them as per your requirements.
- -  The tweet functions will send the analysis results as tweets from the configured Twitter account.
 
 ## Future Enhancements
 This project lays the foundation for further enhancements. Some potential areas of improvement and expansion include:
@@ -46,4 +43,3 @@ https://github.com/alexlitel/congresstweets
 
 ## Acknowledgments
 - This project utilizes the NLTK and SpaCy libraries for natural language processing tasks.
-- Thanks to the Twitter API for providing access to tweet data.
