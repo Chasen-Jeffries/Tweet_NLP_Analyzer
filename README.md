@@ -1,5 +1,5 @@
 # US Congress Tweets NLP Analysis 
-This project focuses on analyzing politicians' tweets using natural language processing (NLP) techniques. The goal is to identify political consistency and sentiments on various topics based on the content of their tweets. The project involves aggregating tweets from different politicians, performing NLP tasks such as sentiment analysis and named entity recognition (NER), and generating insights from the gathered data.
+The objective of this project is to employ natural language processing (NLP) methodologies for scrutinizing the tweets of politicians. By doing so, it aims to ascertain the consistency in their political stances and gauge their sentiments on diverse issues, as reflected through their Twitter activity. This project entails the collection of tweets from various political figures and executing natural language processing (NLP) functions like sentiment analysis and named entity recognition (NER).
 
 ## Features
 The project includes the following features:
